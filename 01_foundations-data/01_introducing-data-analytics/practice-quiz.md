@@ -13,6 +13,8 @@ Which of the following statements best defines data?
 
 > Data is a collection of facts. Through analysis, data can be used to draw conclusions and make predictions.
 
+
+&nbsp;
 ### Question 2
 
 Fill in the blank: In data analytics, the data ecosystem refers to the various elements that interact with one another to produce, manage, store, _____, analyze, and share data.
@@ -24,6 +26,8 @@ Fill in the blank: In data analytics, the data ecosystem refers to the various e
 
 > In data analytics, the data ecosystem refers to the various elements that interact with one another to produce, manage, store, organize, analyze, and share data.
 
+&nbsp;
+
 ### Question 3
 
 Which of the following terms refers to the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making?
@@ -34,6 +38,8 @@ Which of the following terms refers to the collection, transformation, and organ
 * **Data analysis**
 
 > Data analysis refers to the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making.
+
+&nbsp;
 
 ### Question 4
 
