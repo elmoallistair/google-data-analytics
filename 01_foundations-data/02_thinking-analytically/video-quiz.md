@@ -1,5 +1,3 @@
-## Video Quiz
-
 ### Video: Key data analyst skills
 
 Thinking about the way you organize your contacts in a new phone is an example of which analytical skill? 
@@ -20,6 +18,8 @@ You are planning a road trip. Your first step is to break down the planning into
 
 > This scenario describes having a technical mindset. A technical mindset is the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 
+&nbsp;
+
 ### Video: All about thinking analytically 
 
 Fill in the blank: Data visualization involves using _____ to represent and present data. Select all that apply.
@@ -39,6 +39,8 @@ To execute a plan using detail-oriented thinking, what does a data analyst consi
 * The root cause
 
 > To execute a plan using detail-oriented thinking, a data analyst considers the specifics.
+
+&nbsp;
 
 ### Video: Exploring core analytical skills
 
