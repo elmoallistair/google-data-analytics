@@ -9,6 +9,8 @@ In a table, an attribute is a characteristic or quality of data used for what pu
 
 > In a table, an attribute is a characteristic or quality of data used to label a column.
 
+&nbsp;
+
 ### Video: SQL in action
 
 Fill in the blank: A data analyst uses a SQL query to retrieve information from a database. They add a WHERE statement to _____ the data based on certain conditions.
@@ -19,6 +21,8 @@ Fill in the blank: A data analyst uses a SQL query to retrieve information from 
 * **filter**
 
 > They add a WHERE statement to filter the data based on certain conditions.
+
+&nbsp;
 
 ### Video: Becoming a data viz whiz
 

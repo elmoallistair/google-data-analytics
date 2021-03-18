@@ -1,5 +1,7 @@
 ## L2 Mastering spreadsheet basics
 
+&nbsp;
+
 ### Question 1
 
 In a spreadsheet, what is text wrapping used for?
@@ -11,6 +13,8 @@ In a spreadsheet, what is text wrapping used for?
 
 > In a spreadsheet, text wrapping used to automatically change cell height in order to allow all of the text to fit inside.
 
+&nbsp;
+
 ### Question 2
 
 The columns in a spreadsheet are ordered by letter, and the rows are ordered by number.
@@ -19,6 +23,8 @@ The columns in a spreadsheet are ordered by letter, and the rows are ordered by 
 * False
 
 > In a spreadsheet, columns are ordered by letter and rows are ordered by number.
+
+&nbsp;
 
 ### Question 3
 
@@ -32,8 +38,12 @@ Fill in the blank: In a dataset, a row is called an observation. An observation 
 > In a dataset, a row is called an observation. An observation includes all of the attributes for something contained in the row. An attribute is a quality or characteristic of data.
 
 &nbsp;
+<hr>
+&nbsp;
 
 ## L3 Learn about Structured Query Language (SQL)
+
+&nbsp;
 
 ### Question 1
 
@@ -50,6 +60,8 @@ What does the asterisk (*) after SELECT tell the database to do in this query?
 
 > The asterisk tells the database to select all data in the table.
 
+&nbsp;
+
 ### Question 2
 
 ```
@@ -65,6 +77,8 @@ In this query, the data analyst wants to retrieve data from which table?
 
 > The data analyst wants to retrieve data from the employee table.
 
+&nbsp;
+
 ### Question 3
 
 ```
@@ -78,6 +92,8 @@ In this query, the data analyst wants to retrieve all data from the employee tab
 
 > This query asks the database to select all data from the employee table, where the jobCode is FTE and the last name is James.
 
+&nbsp;
+
 ### Question 4
 
 You are writing a query and want to instruct the database to retrieve data from the warehouse_inventory table. What is the SQL statement that follows SELECT *? Type your answer below.
@@ -89,8 +105,12 @@ FROM warehouse_inventory
 > The correct SQL statement is FROM warehouse_inventory. FROM indicates where the selected data comes from. And warehouse_inventory is the name of the table.
 
 &nbsp;
+<hr>
+&nbsp;
 
 ## L4 Visualizing the data
+
+&nbsp;
 
 ### Question 1
 
@@ -103,6 +123,8 @@ Fill in the blank: A data visualization is the _____ representation of informati
 
 > A data visualization is the graphical representation of information.
 
+&nbsp;
+
 ### Question 2
 
 A data analyst uses data visualizations to support their findings.
@@ -111,6 +133,8 @@ A data analyst uses data visualizations to support their findings.
 * False
 
 > A data analyst uses data visualizations to support their findings. Visualizations make data easier to understand.
+
+&nbsp;
 
 ### Question 3
 
