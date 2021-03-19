@@ -1,0 +1,100 @@
+Patient ID,Gender,Marital Status,City,State,Zip Code,Age,Procedure,Follow-up Attended?
+11234,M,Married,Dover Park,ME,04000,62,Extraction,Yes
+15620,F,Single,Dover Park,ME,04000,94,Extraction,No
+19622,M,Divorced,Dover Park,ME,04000,90,Extraction,No
+21829,F,Widowed,Dover Park,ME,04000,81,Crown,No
+21962,F,Single,Dover Park,ME,04000,45,Extraction,Yes
+26513,F,Partnership,Dover Park,ME,04000,43,Emergency Surgery,Yes
+29489,M,Married,Dover Park,ME,04000,85,Crown,No
+34918,T,Widowed,Dover Park,ME,04000,81,Extraction,No
+34952,F,Single,Dover Park,ME,04000,35,Implant,Yes
+35329,M,Widowed,Dover Park,ME,04000,86,Emergency Surgery,No
+39606,F,Married,Dover Park,ME,04000,69,Extraction,No
+40614,NC,Married,Dover Park,ME,04000,49,Crown,No
+41371,F,Married,Dover Park,ME,04000,82,Crown,No
+42305,M,Married,Clydesville,ME,04000,57,Crown,Yes
+43854,F,Married,Dover Park,ME,04000,72,Emergency Surgery,Yes
+43891,F,Widowed,Dover Park,ME,04000,78,Extraction,No
+44606,F,Divorced,Clydesville,ME,04000,51,Crown,No
+46218,M,Single,Dover Park,ME,04000,72,Extraction,Yes
+47060,F,Widowed,Dover Park,ME,04000,90,Crown,No
+47587,M,Married,Dover Park,ME,04000,71,Emergency Surgery,No
+48482,F,Widowed,Dover Park,ME,04000,86,Extraction,No
+49035,M,Single,Clydesville,ME,04000,52,Extraction,No
+51921,M,Single,Dover Park,ME,04000,82,Extraction,No
+51959,T,Single,Clydesville,ME,04000,66,Implant,No
+52494,F,Divorced,Dover Park,ME,04000,47,Extraction,No
+53110,M,Single,Clydesville,ME,04000,43,Emergency Surgery,No
+55725,F,Partnership,Clydesville,ME,04000,34,Emergency Surgery,Yes
+56884,M,Single,Clydesville,ME,04000,38,Crown,Yes
+58912,F,Divorced,Clydesville,ME,04000,42,Extraction,Yes
+60596,M,Widowed,Dover Park,ME,04000,79,Extraction,No
+61921,F,Partnership,Clydesville,ME,04000,70,Extraction,No
+63936,M,Married,Dover Park,ME,04000,96,Implant,No
+64868,F,Widowed,Dover Park,ME,04000,83,Implant,No
+68643,F,Divorced,Dover Park,ME,04000,68,Extraction,Yes
+69479,F,Divorced,Dover Park,ME,04000,25,Extraction,Yes
+71946,F,Divorced,Dover Park,ME,04000,75,Extraction,No
+72264,F,Divorced,Clydesville,ME,04000,47,Extraction,Yes
+73112,F,Widowed,Dover Park,ME,04000,89,Crown,No
+73564,M,Widowed,Dover Park,ME,04000,78,Extraction,No
+75025,F,Single,Clydesville,ME,04000,30,Crown,No
+75350,F,Married,Clydesville,ME,04000,70,Extraction,No
+76242,F,Married,Clydesville,ME,04000,32,Extraction,Yes
+80514,M,Divorced,Dover Park,ME,04000,74,Extraction,No
+82530,M,Single,Clydesville,ME,04000,25,Extraction,Yes
+85807,F,Divorced,Dover Park,ME,04000,46,Implant,Yes
+93916,M,Single,Dover Park,ME,04000,44,Extraction,Yes
+94837,M,Single,Dover Park,ME,04000,54,Extraction,Yes
+97170,NC,Divorced,Dover Park,ME,04000,76,Implant,No
+98249,M,Single,Dover Park,ME,04000,62,Crown,Yes
+98812,M,Single,Dover Park,ME,04000,93,Extraction,No
+123775,T,Single,Dover Park,ME,04000,83,Extraction,No
+124991,M,Single,Clydesville,ME,04000,30,Crown,Yes
+139014,F,Married,Clydesville,ME,04000,50,Extraction,Yes
+152926,F,Divorced,Clydesville,ME,04000,34,Extraction,No
+155033,M,Partnership,Dover Park,ME,04000,27,Crown,Yes
+195910,F,Widowed,Dover Park,ME,04000,96,Extraction,No
+203722,M,Widowed,Dover Park,ME,04000,84,Emergency Surgery,Yes
+209390,F,Widowed,Dover Park,ME,04000,82,Crown,No
+241715,F,Single,Clydesville,ME,04000,52,Extraction,Yes
+252754,F,Married,Dover Park,ME,04000,81,Crown,Yes
+264637,F,Married,Clydesville,ME,04000,24,Crown,Yes
+288316,M,Married,Dover Park,ME,04000,83,Extraction,No
+336825,F,Divorced,Dover Park,ME,04000,78,Extraction,Yes
+343690,M,Single,Dover Park,ME,04000,36,Implant,Yes
+386755,F,Single,Clydesville,ME,04000,63,Extraction,Yes
+387202,M,Widowed,Dover Park,ME,04000,97,Implant,Yes
+423999,F,Married,Dover Park,ME,04000,80,Extraction,No
+441218,M,Single,Dover Park,ME,04000,44,Veneers,Yes
+441392,F,Partnership,Clydesville,ME,04000,81,Crown,No
+453944,M,Widowed,Dover Park,ME,04000,79,Implant,Yes
+456589,F,Partnership,Dover Park,ME,04000,48,Extraction,Yes
+483272,F,Divorced,Dover Park,ME,04000,64,Crown,Yes
+487269,M,Widowed,Dover Park,ME,04000,88,Implant,No
+517266,F,Married,Dover Park,ME,04000,85,Extraction,No
+552159,M,Single,Clydesville,ME,04000,40,Extraction,Yes
+563422,M,Partnership,Dover Park,ME,04000,35,Extraction,Yes
+564625,F,Widowed,Dover Park,ME,04000,85,Extraction,No
+592579,M,Divorced,Dover Park,ME,04000,43,Implant,Yes
+642523,M,Married,Dover Park,ME,04000,75,Extraction,Yes
+659462,F,Widowed,Dover Park,ME,04000,71,Crown,No
+708029,M,Divorced,Dover Park,ME,04000,84,Extraction,Yes
+709760,F,Married,Dover Park,ME,04000,37,Extraction,No
+727724,M,Married,Clydesville,ME,04000,40,Extraction,Yes
+737846,F,Divorced,Dover Park,ME,04000,47,Crown,Yes
+761156,M,Married,Dover Park,ME,04000,68,Crown,Yes
+764005,NC,Married,Dover Park,ME,04000,39,Implant,Yes
+777142,F,Married,Dover Park,ME,04000,102,Extraction,Yes
+782301,M,Married,Dover Park,ME,04000,95,Crown,No
+795762,P,Divorced,Dover Park,ME,04000,63,Implant,Yes
+798810,M,Widowed,Dover Park,ME,04000,69,Extraction,No
+804094,F,Widowed,Dover Park,ME,04000,74,Extraction,Yes
+823733,F,Married,Dover Park,ME,04000,38,Extraction,Yes
+840298,M,Single,Clydesville,ME,04000,57,Extraction,Yes
+860962,M,Single,Clydesville,ME,04000,71,Emergency Surgery,No
+909853,T,Widowed,Dover Park,ME,04000,78,Extraction,No
+915871,F,Partnership,Dover Park,ME,04000,36,Emergency Surgery,Yes
+923490,M,Single,Dover Park,ME,04000,38,Extraction,Yes
+934101,F,Single,Dover Park,ME,04000,39,Emergency Surgery,Yes
+936597,M,Single,Dover Park,ME,04000,27,Extraction,Yes
