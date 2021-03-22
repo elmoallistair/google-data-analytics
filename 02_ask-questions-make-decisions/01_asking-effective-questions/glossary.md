@@ -1,5 +1,7 @@
 ## Glossary
 
+&nbsp;
+
 * **Action-oriented question**: A type of question that generates answers that can lead to action or change (Example: What design features will make our packaging easier to recycle?)
 * **Analytical skills**: Qualities and characteristics associated with solving problems using facts
 * **Analytical thinking**: Identifying and defining a problem and then solving it by using data in an organized, step-by-step manner
