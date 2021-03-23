@@ -1,4 +1,4 @@
-## Optional: Familiar with data analytics? Take our diagnostic quiz
+## C1 Diagnostic quiz
 
 &nbsp;
 
