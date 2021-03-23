@@ -2,6 +2,8 @@
 
 Spreadsheets, query languages, and data visualization tools are all a big part of a data analyst’s job. In this part of the course, you’ll learn the basic concepts involved and explore some examples of how these tools work.
 
+&nbsp;
+
 ### Learning Objectives
 
 * Describe spreadsheets, query languages, and data visualization tools, giving specific examples

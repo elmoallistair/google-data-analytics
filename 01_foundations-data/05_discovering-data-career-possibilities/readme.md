@@ -2,6 +2,8 @@
 
 Businesses of all kinds value the work done by data analysts. In this part of the course, you’ll find out about these businesses and the specific jobs and tasks that analysts perform for them. You’ll also learn how your data analyst certificate will help you meet many of the requirements for a position with these businesses.
 
+&nbsp;
+
 ### Learning Objectives
 
 * Describe the role of a data analyst with specific reference to job roles

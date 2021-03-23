@@ -2,6 +2,8 @@
 
 Data has its own life cycle, and the work of data analysts often intersects with that cycle. In this part of the course, you’ll learn how the data life cycle and data analysts' work both relate to your progress through this program. You’ll also be introduced to applications used in the data analysis process.
 
+&nbsp;
+
 ### Learning Objectives
 
 * Identify key software applications critical to the work of a data analyst including spreadsheets, databases, query languages, and visualization tools
