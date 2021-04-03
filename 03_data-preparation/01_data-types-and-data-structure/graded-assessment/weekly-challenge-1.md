@@ -8,8 +8,10 @@ Latest Submission Grade: 87.5%
 
 If you have a short time frame for data collection and need an answer immediately, you would have to use historical data.
 
-* True
-* **False** [INCORRECT]
+* **True**
+* False
+
+> If you have a short time frame for data collection and need an answer immediately, you would have to use historical data.
 
 &nbsp;
 
