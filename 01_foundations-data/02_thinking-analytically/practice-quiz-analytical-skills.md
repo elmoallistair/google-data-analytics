@@ -8,7 +8,7 @@ Identify the pattern from left to right in the set of blocks below and try to pr
 
 ![img](img/l2-01.png)
 
-Answer:
+**Answer:**
 
 ![img](img/l2-01-ans.png)
 
@@ -25,7 +25,7 @@ A series of different boxes containing shapes and patterns with the last box con
 
 Based on the images above, which option comes next in the pattern? 
 
-Answer:
+**Answer:**
 
 ![img](img/l2-02-ans.png)
 
@@ -79,7 +79,7 @@ Top: left & center, middle: right IS TO top: right & center, middle: left AS top
 
 Select the image below that completes the statement.
 
-Answer:
+**Answer:**
 
 ![img](img/l2-05-ans.png)
 
@@ -96,6 +96,8 @@ Your task is to choose the figure that completes the statement. Fill in the blan
 ![img](img/l2-06.png)
 
 Which image completes it?
+
+**Answer:**
 
 ![img](img/l2-06-ans.png)
 
@@ -137,6 +139,8 @@ The following series of codes are in a sequence from left to right. There is a r
 
 Now, identify patterns in a word problem using a data visualization. There are 12 chocolates in a box: eight have caramel filling, six have coconut filling, and two have both caramel and coconut filling. Choose the best image that describes this box of chocolates. 
 
+**Answer:**
+
 ![img](img/l2-09-ans.png)
 
 > This diagram depicts six chocolates with caramel filling only, four chocolates with coconut filling only, two chocolates with both caramel and coconut filling, and the total number of chocolates is 12.
@@ -149,92 +153,8 @@ There are 10 children in a class and they have all brought sandwiches for lunch:
 
 Find out how many children have sandwiches with **neither** peanut butter **nor** jelly and choose the image that describes the situation best.
 
+**Answer:**
+
 ![img](img/l2-10-ans.png)
 
 > In this diagram, there are six sandwiches with jelly, five sandwiches with peanut butter, and three sandwiches with both. This means that there are (5 + 6 - 3 = 8 ) eight sandwiches with either peanut butter or jelly. There are a total of 10 children. Consider: 10 - 8 = 2. This means two children have neither peanut butter nor jelly in their sandwiches.
-
-&nbsp;
-<hr>
-&nbsp;
-
-## L3 Thinking about analytical thinking
-
-&nbsp;
-
-### Question 1
-
-What practice involves identifying, defining, and solving a problem by using data in an organized, step-by-step manner?
-
-* Context
-* Data design
-* **Analytical thinking**
-* Visualization
-
-> Analytical thinking involves identifying and defining a problem, then solving it by using data in an organized, step-by-step manner.
-
-&nbsp;
-
-### Question 2
-
-Data visualization is the graphical representation of information, including which of the following? Select all that apply.
-
-Icons
-**Maps**
-**Charts**
-**Graphs**
-
-> Graphs, maps, and charts are used in data visualization.
-
-&nbsp;
-
-### Question 3
-
-Gap analysis is used to examine and evaluate how a process currently works with the goal of getting to where you want to be in the future.
-
-* **True**
-* False
-
-> Gap analysis is used to examine and evaluate how a process currently works with the goal of getting to where you want to be in the future.
-
-&nbsp;
-<hr>
-&nbsp;
-
-## L4 Thinking about outcomes
-
-&nbsp;
-
-### Question 1
-
-Fill in the blank: Curiosity, understanding context, and having a technical mindset are all examples of _____ used in data-driven decision-making.
-
-* **analytical skills**
-* business strategies
-* thought processes
-* data models
-
-> Curiosity, understanding context, and having a technical mindset are all examples of analytical skills used to make data-driven decisions.
-
-&nbsp;
-
-### Question 2
-
-Surveying customers about their preferences and using that information to inform business strategy is an example of data-driven decision-making.
-
-* **True**
-* False
-
-> Surveying customers about their preferences and using that information to inform business strategy is an example of data-driven decision-making.
-
-&nbsp;
-
-### Question 3
-
-In data analysis, which analytical skill involves the management of people, processes, and tools?
-
-* Data control
-* **Data strategy**
-* Data analytics
-* Data design
-
-> Data strategy involves the management of the people, processes, and tools.
