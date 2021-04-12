@@ -1,0 +1,10 @@
+descriptor,total_complaint_count,data_count,corr_count,corr_pct
+Noise - Street/Sidewalk: Loud Talking,109951,452,-0.668,-0.668
+Noise - Vehicle: Car/Truck Music,78780,449,-0.644,-0.644
+HEAT/HOT WATER: ENTIRE BUILDING,554680,385,0.609,0.609
+HEAT/HOT WATER: APARTMENT ONLY,294893,385,0.574,0.574
+Noise - Street/Sidewalk: Loud Music/Party,192111,452,-0.552,-0.552
+Maintenance or Facility: Structure - Outdoors,35731,445,-0.542,-0.542
+HEATING: HEAT,871935,384,0.535,0.535
+Sanitation Condition: 22 Weeds,14195,376,-0.516,-0.516
+Maintenance or Facility: Garbage or Litter,15518,416,-0.501,-0.501

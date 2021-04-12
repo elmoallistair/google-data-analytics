@@ -1,0 +1,2030 @@
+year,complaint_type,num_complaints
+2017,Noise - Residential,230152
+2016,HEAT/HOT WATER,227959
+2015,HEAT/HOT WATER,225706
+2016,Noise - Residential,221906
+2010,HEATING,214218
+2017,HEAT/HOT WATER,213521
+2015,Noise - Residential,208026
+2013,HEATING,202896
+2014,Noise - Residential,192608
+2011,HEATING,190184
+2012,HEATING,182974
+2013,Noise - Residential,151516
+2017,Illegal Parking,146122
+2017,Blocked Driveway,136097
+2011,GENERAL CONSTRUCTION,133242
+2014,HEAT/HOT WATER,132767
+2012,Noise - Residential,127943
+2010,GENERAL CONSTRUCTION,127131
+2015,Street Condition,124379
+2016,Illegal Parking,122479
+2016,Blocked Driveway,119046
+2010,Street Light Condition,116466
+2010,Noise - Residential,115615
+2014,Street Condition,114545
+2011,PLUMBING,113218
+2012,GENERAL CONSTRUCTION,112436
+2013,GENERAL CONSTRUCTION,112169
+2010,PLUMBING,111504
+2011,Noise - Residential,111447
+2011,Street Condition,104694
+2010,Street Condition,103218
+2011,Street Light Condition,101314
+2015,Blocked Driveway,100881
+2011,PAINT - PLASTER,100704
+2015,Street Light Condition,98106
+2014,HEATING,97597
+2017,Street Condition,94673
+2014,Street Light Condition,94665
+2012,Street Light Condition,93981
+2010,PAINT - PLASTER,93194
+2015,Illegal Parking,92679
+2013,Street Light Condition,92502
+2016,Street Condition,90674
+2016,Street Light Condition,89122
+2012,PLUMBING,87561
+2013,PLUMBING,86564
+2017,Street Light Condition,84195
+2015,UNSANITARY CONDITION,82888
+2016,UNSANITARY CONDITION,80469
+2017,UNSANITARY CONDITION,79282
+2014,Blocked Driveway,79170
+2013,PAINT - PLASTER,77957
+2012,PAINT - PLASTER,77287
+2013,Street Condition,74213
+2016,Water System,73372
+2017,Noise - Street/Sidewalk,73085
+2015,Water System,71085
+2010,Water System,70195
+2015,PAINT/PLASTER,69698
+2010,NONCONST,69659
+2011,NONCONST,68407
+2012,Street Condition,67135
+2017,Water System,65302
+2014,PAINT/PLASTER,63503
+2014,Illegal Parking,63243
+2014,PLUMBING,63221
+2014,UNSANITARY CONDITION,61789
+2011,Water System,61578
+2016,Noise - Street/Sidewalk,61199
+2016,PAINT/PLASTER,60336
+2017,Noise,60171
+2012,NONCONST,60055
+2016,Noise,58493
+2012,Water System,57676
+2013,Blocked Driveway,57408
+2015,Noise,57365
+2017,PAINT/PLASTER,57076
+2014,Water System,55884
+2015,PLUMBING,55418
+2013,NONCONST,53831
+2010,Traffic Signal Condition,53773
+2013,Water System,53186
+2016,PLUMBING,52592
+2011,Blocked Driveway,52592
+2015,Noise - Street/Sidewalk,51692
+2014,Noise,51176
+2012,Blocked Driveway,50818
+2012,Damaged Tree,50434
+2010,Blocked Driveway,49970
+2017,PLUMBING,49969
+2018,HEAT/HOT WATER,49620
+2016,Noise - Commercial,49006
+2010,General Construction/Plumbing,48620
+2012,Traffic Signal Condition,47778
+2017,Noise - Commercial,47394
+2011,Traffic Signal Condition,47165
+2017,Request Large Bulky Item Collection,46614
+2011,Sewer,46286
+2016,Homeless Person Assistance,45609
+2013,Traffic Signal Condition,44739
+2013,Illegal Parking,44156
+2015,Noise - Commercial,44109
+2010,Sewer,43694
+2013,DOF Literature Request,43159
+2014,Traffic Signal Condition,42489
+2015,Traffic Signal Condition,42309
+2015,DOOR/WINDOW,40005
+2013,Noise,39238
+2010,Damaged Tree,39178
+2010,ELECTRIC,39036
+2017,Sanitation Condition,38961
+2011,ELECTRIC,37802
+2016,Traffic Signal Condition,37527
+2016,DOOR/WINDOW,37524
+2014,Noise - Commercial,37325
+2012,Sewer,36968
+2011,Dirty Conditions,36926
+2014,Sewer,36510
+2017,Missed Collection (All Materials),36261
+2017,Traffic Signal Condition,36178
+2017,Dirty Conditions,36010
+2015,WATER LEAK,35570
+2014,Noise - Street/Sidewalk,35484
+2010,Dirty Conditions,35457
+2012,ELECTRIC,35398
+2017,DOF Literature Request,35222
+2013,ELECTRIC,35101
+2017,Rodent,35075
+2017,DOOR/WINDOW,35012
+2017,Derelict Vehicle,35007
+2016,Sanitation Condition,34986
+2015,Dirty Conditions,34398
+2011,Illegal Parking,34204
+2012,Noise,34178
+2013,Broken Muni Meter,34129
+2016,Dirty Conditions,33988
+2012,Dirty Conditions,33661
+2017,Derelict Vehicles,33572
+2013,Dirty Conditions,33227
+2016,Sewer,32913
+2017,Sewer,32912
+2014,Dirty Conditions,32630
+2015,Sanitation Condition,32460
+2017,WATER LEAK,32181
+2011,Damaged Tree,32106
+2011,Noise,32041
+2012,Illegal Parking,32037
+2016,WATER LEAK,31954
+2015,Sewer,31902
+2013,Sewer,31481
+2016,Rodent,31439
+2014,DOF Literature Request,31006
+2014,ELECTRIC,30403
+2010,Building/Use,30367
+2016,Missed Collection (All Materials),30263
+2016,General Construction/Plumbing,30174
+2015,ELECTRIC,30133
+2010,Noise,29862
+2015,DOF Literature Request,29690
+2014,Broken Muni Meter,29568
+2017,General Construction/Plumbing,29445
+2017,Noise - Vehicle,29409
+2015,Rodent,29314
+2016,Derelict Vehicle,29097
+2017,Building/Use,29013
+2014,WATER LEAK,28929
+2014,DOOR/WINDOW,28925
+2016,DOF Literature Request,28855
+2015,General Construction/Plumbing,28188
+2016,Derelict Vehicles,28099
+2010,Sanitation Condition,28090
+2016,ELECTRIC,28007
+2015,FLOORING/STAIRS,27815
+2016,Building/Use,27534
+2014,Sanitation Condition,27149
+2014,General Construction/Plumbing,27146
+2011,Building/Use,26886
+2016,GENERAL,26815
+2014,Building/Use,26777
+2015,GENERAL,26755
+2013,Noise - Commercial,26520
+2014,GENERAL,26219
+2012,Building/Use,26154
+2017,ELECTRIC,25920
+2011,General Construction/Plumbing,25774
+2015,Building/Use,25490
+2012,General Construction/Plumbing,25342
+2015,Missed Collection (All Materials),25282
+2016,Benefit Card Replacement,25060
+2013,Building/Use,25009
+2017,GENERAL,24964
+2013,Sanitation Condition,24888
+2016,FLOORING/STAIRS,24811
+2013,Noise - Street/Sidewalk,24609
+2013,General Construction/Plumbing,24581
+2011,Sanitation Condition,24563
+2014,Rodent,24515
+2017,Damaged Tree,24480
+2012,Sanitation Condition,24451
+2016,Broken Muni Meter,24262
+2016,Damaged Tree,23941
+2017,FLOORING/STAIRS,23935
+2016,Noise - Vehicle,23861
+2017,Homeless Person Assistance,23344
+2012,DOF Literature Request,23047
+2015,Broken Muni Meter,22972
+2010,Taxi Complaint,22662
+2010,DHS Advantage - Tenant,22548
+2015,Benefit Card Replacement,22464
+2013,Rodent,22345
+2010,Rodent,22186
+2012,Broken Muni Meter,22085
+2015,Derelict Vehicle,21661
+2014,Missed Collection (All Materials),21589
+2011,Rodent,21494
+2012,Rodent,21327
+2014,FLOORING/STAIRS,21113
+2010,Noise - Commercial,20894
+2012,Noise - Commercial,20599
+2010,Graffiti,20416
+2010,Illegal Parking,19900
+2014,Damaged Tree,19893
+2012,Noise - Street/Sidewalk,19433
+2017,Graffiti,19364
+2015,Noise - Vehicle,19352
+2013,New Tree Request,19251
+2011,Taxi Complaint,19059
+2015,Derelict Vehicles,18957
+2011,Missed Collection (All Materials),18922
+2012,Taxi Complaint,18689
+2011,Noise - Commercial,18338
+2016,New Tree Request,18337
+2017,Benefit Card Replacement,18296
+2010,Noise - Street/Sidewalk,18096
+2014,New Tree Request,17982
+2012,Consumer Complaint,17946
+2015,Damaged Tree,17860
+2015,Taxi Complaint,17858
+2013,Damaged Tree,17741
+2015,Consumer Complaint,17683
+2010,Consumer Complaint,17663
+2014,Consumer Complaint,17563
+2011,Noise - Street/Sidewalk,17439
+2011,SCRIE,17395
+2013,Consumer Complaint,17234
+2014,Benefit Card Replacement,17161
+2017,Consumer Complaint,17123
+2017,New Tree Request,17012
+2011,Consumer Complaint,17006
+2013,Taxi Complaint,16961
+2014,Taxi Complaint,16743
+2013,Missed Collection (All Materials),16608
+2016,Consumer Complaint,16484
+2010,Missed Collection (All Materials),16309
+2012,SCRIE,16240
+2014,Graffiti,16125
+2011,DHS Advantage - Tenant,16104
+2017,DOF Property - Reduction Issue,16087
+2011,Graffiti,16004
+2012,Graffiti,15988
+2014,GENERAL CONSTRUCTION,15885
+2011,Broken Muni Meter,15876
+2014,Overgrown Tree/Branches,15801
+2016,Taxi Complaint,15737
+2014,Derelict Vehicle,15197
+2015,Overgrown Tree/Branches,15164
+2014,Noise - Vehicle,15154
+2015,New Tree Request,15096
+2010,APPLIANCE,15017
+2017,Maintenance or Facility,15001
+2010,Overgrown Tree/Branches,14968
+2014,Snow,14764
+2010,DHS Advantage -Landlord/Broker,14637
+2010,Derelict Vehicle,14487
+2017,Overgrown Tree/Branches,14479
+2017,Taxi Complaint,14466
+2016,Maintenance or Facility,14409
+2012,Overgrown Tree/Branches,14253
+2013,Overgrown Tree/Branches,14139
+2010,Traffic/Illegal Parking,14047
+2011,DHS Advantage -Landlord/Broker,14044
+2013,DOF Property - Reduction Issue,13867
+2015,Graffiti,13717
+2012,Noise - Vehicle,13657
+2011,APPLIANCE,13611
+2010,Broken Muni Meter,13592
+2017,Electronics Waste,13574
+2010,DOF Parking - Payment Issue,13529
+2013,Graffiti,13511
+2010,Noise - Vehicle,13498
+2012,Missed Collection (All Materials),13488
+2011,Overgrown Tree/Branches,13482
+2015,Snow,13002
+2011,Derelict Vehicle,12923
+2016,APPLIANCE,12902
+2017,Elevator,12794
+2013,Noise - Vehicle,12772
+2014,Derelict Vehicles,12630
+2017,APPLIANCE,12609
+2016,Overgrown Tree/Branches,12608
+2016,Graffiti,12590
+2018,Noise - Residential,12574
+2016,Elevator,12547
+2011,Noise - Vehicle,12407
+2011,Snow,12123
+2014,PAINT - PLASTER,12116
+2010,Snow,12024
+2017,Snow,11792
+2013,Derelict Vehicles,11783
+2015,Maintenance or Facility,11779
+2014,DOF Property - Reduction Issue,11773
+2013,Derelict Vehicle,11733
+2015,DOF Property - Reduction Issue,11641
+2015,HPD Literature Request,11498
+2016,Lead,11441
+2010,DOF Property - Owner Issue,11435
+2010,Lead,11254
+2015,APPLIANCE,11238
+2017,Dead/Dying Tree,11224
+2010,Derelict Vehicles,10849
+2011,DOF Property - Owner Issue,10783
+2011,Derelict Vehicles,10573
+2010,Dead Tree,10569
+2012,Derelict Vehicle,10563
+2015,Animal Abuse,10541
+2017,Food Establishment,10420
+2016,Food Establishment,10407
+2015,Dead Tree,10398
+2012,Derelict Vehicles,10376
+2014,APPLIANCE,10336
+2012,DOF Property - Reduction Issue,10333
+2014,Dead Tree,10289
+2014,Maintenance or Facility,10283
+2018,Water System,10261
+2016,Dead/Dying Tree,10213
+2013,Benefit Card Replacement,10209
+2011,DOF Parking - Payment Issue,10174
+2016,Animal Abuse,10068
+2016,DOF Property - Reduction Issue,10017
+2017,Non-Emergency Police Matter,10000
+2010,Root/Sewer/Sidewalk Condition,9970
+2010,SCRIE,9968
+2015,Root/Sewer/Sidewalk Condition,9963
+2010,New Tree Request,9859
+2013,Street Sign - Damaged,9856
+2011,New Tree Request,9849
+2015,SAFETY,9847
+2012,DOF Parking - Payment Issue,9808
+2011,Sidewalk Condition,9708
+2015,Elevator,9686
+2017,Broken Muni Meter,9635
+2015,Food Establishment,9612
+2013,DOF Parking - Payment Issue,9605
+2012,Root/Sewer/Sidewalk Condition,9569
+2014,DOF Parking - Payment Issue,9568
+2011,DOF Property - Reduction Issue,9561
+2012,New Tree Request,9344
+2012,DOF Property - Owner Issue,9329
+2016,Non-Emergency Police Matter,9210
+2017,Animal Abuse,9187
+2013,Root/Sewer/Sidewalk Condition,9186
+2014,Animal Abuse,9158
+2018,Blocked Driveway,9040
+2014,Root/Sewer/Sidewalk Condition,9036
+2014,NONCONST,8938
+2010,Maintenance or Facility,8925
+2012,Maintenance or Facility,8907
+2016,Air Quality,8829
+2012,Noise Survey,8801
+2014,Elevator,8792
+2011,Maintenance or Facility,8772
+2014,DOF Property - Owner Issue,8772
+2013,Dead Tree,8699
+2012,Dead Tree,8687
+2017,Root/Sewer/Sidewalk Condition,8672
+2017,SAFETY,8648
+2015,DOF Property - Owner Issue,8582
+2016,SAFETY,8572
+2017,For Hire Vehicle Complaint,8562
+2011,Dead Tree,8509
+2015,Air Quality,8499
+2013,Maintenance or Facility,8411
+2015,Agency Issues,8395
+2014,SCRIE,8363
+2013,SCRIE,8363
+2013,DOF Property - Owner Issue,8280
+2013,Elevator,8254
+2010,DOF Property - Request Copy,8154
+2018,Illegal Parking,8108
+2011,Root/Sewer/Sidewalk Condition,8065
+2014,Food Establishment,8042
+2017,Other Enforcement,7998
+2016,Root/Sewer/Sidewalk Condition,7995
+2014,Highway Condition,7946
+2012,Elevator,7936
+2017,Lead,7932
+2012,Special Enforcement,7900
+2015,SCRIE,7797
+2010,Elevator,7781
+2017,Air Quality,7695
+2015,Non-Emergency Police Matter,7506
+2011,Noise Survey,7502
+2014,SAFETY,7461
+2010,Sidewalk Condition,7461
+2012,Sidewalk Condition,7310
+2016,Other Enforcement,7212
+2014,Air Quality,7130
+2011,Elevator,7103
+2018,Request Large Bulky Item Collection,7080
+2015,Highway Condition,7020
+2015,Construction,7011
+2012,Air Quality,6932
+2016,Street Sign - Damaged,6885
+2010,Air Quality,6843
+2013,Air Quality,6813
+2014,Non-Emergency Police Matter,6757
+2013,Food Establishment,6744
+2017,DOF Property - Payment Issue,6591
+2016,DOF Property - Update Account,6560
+2012,Food Establishment,6522
+2016,SCRIE,6520
+2015,Homeless Person Assistance,6505
+2015,Other Enforcement,6495
+2011,Air Quality,6405
+2017,Plumbing,6398
+2011,DOF Property - Request Copy,6361
+2017,DOF Property - Request Copy,6337
+2014,DOF Property - Request Copy,6334
+2013,Special Enforcement,6300
+2017,Street Sign - Damaged,6285
+2011,Food Establishment,6236
+2010,Food Establishment,6224
+2016,Sidewalk Condition,6214
+2012,DOF Property - Request Copy,6172
+2017,Housing - Low Income Senior,6166
+2017,DOF Property - Update Account,6088
+2012,Street Sign - Damaged,6026
+2012,Construction,6020
+2017,Sidewalk Condition,6012
+2015,DOF Parking - Payment Issue,6006
+2015,Water Conservation,6003
+2016,For Hire Vehicle Complaint,5987
+2012,APPLIANCE,5981
+2016,Housing - Low Income Senior,5955
+2016,DOF Property - Request Copy,5917
+2015,DOF Property - Request Copy,5915
+2010,DCA / DOH New License Application Request,5894
+2015,Housing - Low Income Senior,5889
+2014,Construction,5883
+2016,Standing Water,5838
+2014,Street Sign - Damaged,5835
+2013,Housing - Low Income Senior,5797
+2011,Street Sign - Damaged,5791
+2010,Broken Parking Meter,5766
+2018,PLUMBING,5765
+2017,DOT Literature Request,5765
+2014,DOF Property - Payment Issue,5672
+2011,Broken Parking Meter,5658
+2016,Traffic,5627
+2013,Construction,5612
+2017,Traffic,5591
+2017,Special Enforcement,5578
+2013,DOF Property - Request Copy,5562
+2014,Other Enforcement,5558
+2014,Housing - Low Income Senior,5545
+2013,APPLIANCE,5525
+2010,DOF Property - Payment Issue,5504
+2016,Snow,5485
+2015,Sidewalk Condition,5416
+2011,Housing - Low Income Senior,5356
+2010,Special Enforcement,5279
+2018,UNSANITARY CONDITION,5230
+2010,Indoor Air Quality,5215
+2017,SCRIE,5200
+2015,Traffic,5198
+2010,Street Sign - Damaged,5197
+2010,DOF Property - Reduction Issue,5188
+2016,Homeless Encampment,5174
+2013,Other Enforcement,5171
+2015,DOF Property - Payment Issue,5166
+2015,Street Sign - Damaged,5156
+2017,Vending,5119
+2011,Special Enforcement,5111
+2012,Housing - Low Income Senior,5099
+2017,Street Sign - Missing,5057
+2014,Indoor Air Quality,4989
+2011,DOF Property - Payment Issue,4973
+2016,Fire Safety Director - F58,4959
+2017,Homeless Encampment,4943
+2018,Street Condition,4918
+2015,Homeless Encampment,4879
+2010,Other Enforcement,4860
+2018,Street Light Condition,4856
+2014,Special Projects Inspection Team (SPIT),4831
+2015,Indoor Air Quality,4802
+2014,Special Enforcement,4775
+2011,Lead,4774
+2016,Street Sign - Missing,4729
+2013,Fire Safety Director - F58,4711
+2014,Sidewalk Condition,4702
+2016,Vending,4702
+2015,Fire Safety Director - F58,4701
+2014,Fire Safety Director - F58,4693
+2017,Noise - Park,4674
+2013,Non-Emergency Police Matter,4657
+2015,Plumbing,4654
+2014,Water Conservation,4534
+2011,DCA / DOH New License Application Request,4527
+2011,Plumbing,4486
+2012,Other Enforcement,4483
+2013,Sidewalk Condition,4468
+2013,Indoor Air Quality,4464
+2011,Highway Condition,4412
+2017,Indoor Air Quality,4407
+2014,Street Sign - Missing,4400
+2011,Other Enforcement,4368
+2010,Electrical,4361
+2016,Indoor Air Quality,4357
+2015,Street Sign - Missing,4332
+2012,Fire Safety Director - F58,4322
+2016,Plumbing,4302
+2010,Vending,4286
+2013,Street Sign - Missing,4278
+2018,PAINT/PLASTER,4263
+2010,Highway Condition,4231
+2017,DOF Parking - Payment Issue,4201
+2015,Vending,4192
+2016,Water Conservation,4168
+2012,Indoor Air Quality,4155
+2011,Indoor Air Quality,4146
+2011,Vending,4137
+2018,Traffic Signal Condition,4128
+2013,DOF Property - Payment Issue,4127
+2011,Non-Emergency Police Matter,4119
+2015,Noise - Park,4109
+2016,DOF Property - Payment Issue,4108
+2010,Plumbing,4096
+2015,For Hire Vehicle Complaint,4090
+2011,Electrical,4027
+2016,DOF Parking - Payment Issue,3979
+2015,Special Enforcement,3977
+2012,DOF Property - Payment Issue,3949
+2012,Non-Emergency Police Matter,3902
+2014,Electrical,3887
+2016,Noise - Park,3886
+2010,Housing - Low Income Senior,3880
+2017,Electrical,3857
+2014,Noise - Park,3834
+2012,Benefit Card Replacement,3819
+2014,Traffic,3813
+2014,Plumbing,3804
+2011,Construction,3781
+2016,Highway Condition,3775
+2010,Non-Emergency Police Matter,3749
+2017,Special Projects Inspection Team (SPIT),3744
+2012,Vending,3699
+2013,Water Conservation,3692
+2018,Snow,3681
+2016,Special Enforcement,3680
+2012,Plumbing,3636
+2016,Agency Issues,3626
+2016,Electronics Waste,3549
+2012,DCA / DOH New License Application Request,3541
+2016,HPD Literature Request,3538
+2016,Special Projects Inspection Team (SPIT),3529
+2011,Street Sign - Missing,3509
+2018,DOOR/WINDOW,3508
+2016,Food Poisoning,3432
+2010,Street Sign - Missing,3415
+2017,Highway Condition,3347
+2010,Water Conservation,3333
+2013,Vending,3306
+2016,Electrical,3301
+2015,Special Projects Inspection Team (SPIT),3295
+2017,Food Poisoning,3287
+2012,Electrical,3267
+2015,Taxi Report,3222
+2014,Vending,3218
+2013,Special Projects Inspection Team (SPIT),3215
+2012,Broken Parking Meter,3166
+2016,Hazardous Materials,3150
+2012,Street Sign - Missing,3132
+2015,Hazardous Materials,3129
+2011,Litter Basket / Request,3124
+2016,DOT Literature Request,3115
+2013,Electrical,3109
+2012,For Hire Vehicle Complaint,3085
+2017,Illegal Tree Damage,3082
+2012,Standing Water,3043
+2011,Traffic,3035
+2015,Food Poisoning,3031
+2011,Water Conservation,3031
+2017,Hazardous Materials,3030
+2014,Homeless Encampment,3025
+2017,HPD Literature Request,2984
+2017,Water Conservation,2967
+2016,Illegal Tree Damage,2961
+2013,Agency Issues,2960
+2017,Litter Basket / Request,2943
+2013,Noise - Park,2940
+2013,Food Poisoning,2926
+2018,WATER LEAK,2919
+2011,Special Projects Inspection Team (SPIT),2916
+2014,Litter Basket / Request,2915
+2015,DOT Literature Request,2913
+2014,Food Poisoning,2904
+2012,Food Poisoning,2892
+2012,Noise - Park,2889
+2012,Traffic,2875
+2013,Plumbing,2870
+2014,For Hire Vehicle Complaint,2811
+2015,Electrical,2809
+2013,Traffic,2799
+2016,Curb Condition,2797
+2014,Hazardous Materials,2769
+2012,Hazardous Materials,2757
+2010,Special Projects Inspection Team (SPIT),2753
+2010,Food Poisoning,2751
+2016,Taxi Report,2751
+2013,Hazardous Materials,2743
+2011,Food Poisoning,2741
+2010,Housing Options,2733
+2012,Special Projects Inspection Team (SPIT),2728
+2011,DOF Literature Request,2715
+2013,DCA / DOH New License Application Request,2696
+2013,Litter Basket / Request,2687
+2017,Standing Water,2671
+2016,Litter Basket / Request,2667
+2018,DOF Literature Request,2656
+2015,Litter Basket / Request,2616
+2018,Noise,2610
+2015,Illegal Tree Damage,2595
+2013,Highway Condition,2567
+2010,Litter Basket / Request,2551
+2017,Curb Condition,2544
+2011,Unsanitary Animal Pvt Property,2544
+2018,Noise - Commercial,2535
+2011,For Hire Vehicle Complaint,2534
+2017,Agency Issues,2531
+2013,For Hire Vehicle Complaint,2485
+2013,Snow,2475
+2013,Homeless Encampment,2474
+2013,Vacant Lot,2461
+2012,Unsanitary Animal Pvt Property,2415
+2014,Illegal Tree Damage,2387
+2017,Smoking,2383
+2012,Litter Basket / Request,2382
+2010,For Hire Vehicle Complaint,2372
+2017,Opinion for the Mayor,2358
+2015,Asbestos,2350
+2013,DOT Literature Request,2332
+2015,Unsanitary Animal Pvt Property,2329
+2011,Noise - Park,2329
+2015,Lead,2313
+2017,Vacant Lot,2303
+2017,Unsanitary Animal Pvt Property,2282
+2016,Violation of Park Rules,2279
+2012,Vacant Lot,2277
+2010,Unsanitary Animal Pvt Property,2262
+2010,Noise - Park,2261
+2017,Taxi Report,2226
+2017,School Maintenance,2191
+2012,DHS Advantage - Tenant,2189
+2012,Homeless Encampment,2186
+2018,ELECTRIC,2186
+2014,Standing Water,2182
+2016,Unsanitary Animal Pvt Property,2181
+2012,Highway Condition,2176
+2012,Water Conservation,2173
+2014,DOT Literature Request,2165
+2017,Violation of Park Rules,2163
+2016,Vacant Lot,2161
+2014,DCA / DOH New License Application Request,2157
+2016,Street Sign - Dangling,2147
+2013,Lead,2142
+2017,Drug Activity,2137
+2017,Street Sign - Dangling,2109
+2014,Unsanitary Animal Pvt Property,2108
+2014,Asbestos,2101
+2017,Cable Complaint,2101
+2012,Lead,2084
+2016,Asbestos,2073
+2013,Standing Water,2073
+2010,Traffic,2066
+2011,DOF Parking - Request Status,2055
+2014,Vacant Lot,2048
+2010,Vacant Lot,2047
+2010,Boilers,2043
+2010,School Maintenance,2042
+2012,Asbestos,2029
+2015,Vacant Lot,2028
+2010,Animal in a Park,2009
+2013,Illegal Tree Damage,2003
+2013,Unsanitary Animal Pvt Property,1996
+2011,School Maintenance,1994
+2018,Dirty Conditions,1994
+2010,Emergency Response Team (ERT),1989
+2018,Sewer,1983
+2018,Derelict Vehicle,1980
+2010,Hazardous Materials,1979
+2011,Asbestos,1977
+2012,DHS Advantage -Landlord/Broker,1962
+2011,Vacant Lot,1957
+2018,Water Conservation,1955
+2017,Derelict Bicycle,1952
+2014,Lead,1944
+2011,Hazardous Materials,1937
+2018,GENERAL,1935
+2010,Illegal Tree Damage,1935
+2013,Boilers,1929
+2017,Broken Parking Meter,1928
+2013,Housing Options,1927
+2012,DOF Parking - Request Status,1916
+2014,Violation of Park Rules,1908
+2010,Smoking,1894
+2014,Homeless Person Assistance,1887
+2017,Housing Options,1886
+2016,Animal in a Park,1877
+2015,Street Sign - Dangling,1868
+2015,Violation of Park Rules,1861
+2017,DOF Property - Owner Issue,1854
+2014,Housing Options,1852
+2016,DPR Internal,1843
+2013,Asbestos,1842
+2011,Homeless Encampment,1839
+2015,Animal in a Park,1838
+2015,Housing Options,1838
+2011,Boilers,1838
+2017,DCA / DOH New License Application Request,1836
+2010,Asbestos,1827
+2011,Smoking,1818
+2017,Animal in a Park,1816
+2010,DOF Parking - Request Copy,1812
+2012,Housing Options,1809
+2015,DCA / DOH New License Application Request,1807
+2017,Asbestos,1806
+2016,DCA / DOH New License Application Request,1806
+2010,Homeless Encampment,1787
+2016,Boilers,1771
+2013,Street Sign - Dangling,1769
+2016,Derelict Bicycle,1768
+2011,Housing Options,1762
+2016,Housing Options,1759
+2011,Sweeping/Missed-Inadequate,1755
+2014,Smoking,1752
+2016,School Maintenance,1748
+2012,Smoking,1748
+2015,Smoking,1737
+2017,DPR Internal,1723
+2012,Boilers,1721
+2016,DOF Property - Owner Issue,1717
+2012,Violation of Park Rules,1709
+2018,Sanitation Condition,1699
+2010,Industrial Waste,1691
+2015,OUTSIDE BUILDING,1682
+2011,Violation of Park Rules,1681
+2012,Industrial Waste,1674
+2014,Street Sign - Dangling,1652
+2015,DPR Internal,1648
+2010,Investigations and Discipline (IAD),1646
+2018,FLOORING/STAIRS,1639
+2012,Street Sign - Dangling,1636
+2015,School Maintenance,1636
+2014,Boilers,1635
+2011,Illegal Tree Damage,1634
+2016,Smoking,1624
+2015,Standing Water,1617
+2012,Animal in a Park,1617
+2011,Animal in a Park,1614
+2018,Derelict Vehicles,1586
+2012,Investigations and Discipline (IAD),1585
+2015,Curb Condition,1584
+2012,Illegal Tree Damage,1582
+2013,Smoking,1578
+2010,OEM Disabled Vehicle,1569
+2018,Building/Use,1569
+2014,Sweeping/Missed,1566
+2014,Non-Residential Heat,1566
+2015,Overflowing Litter Baskets,1563
+2011,Street Sign - Dangling,1557
+2018,General Construction/Plumbing,1552
+2017,Boilers,1539
+2017,Water Quality,1535
+2016,Drinking,1533
+2011,Industrial Waste,1525
+2013,Industrial Waste,1507
+2015,Noise - Helicopter,1505
+2017,Drinking,1503
+2010,Overflowing Litter Baskets,1503
+2010,Violation of Park Rules,1497
+2011,Investigations and Discipline (IAD),1487
+2014,School Maintenance,1483
+2013,Animal in a Park,1481
+2017,Industrial Waste,1478
+2015,Industrial Waste,1473
+2016,Water Quality,1449
+2018,Homeless Person Assistance,1446
+2013,DOF Parking - Request Status,1443
+2013,Sweeping/Missed-Inadequate,1441
+2010,Window Guard,1431
+2014,DPR Internal,1417
+2014,Indoor Sewage,1414
+2014,OUTSIDE BUILDING,1411
+2015,Boilers,1410
+2015,Drinking,1409
+2013,Non-Residential Heat,1408
+2011,CONSTRUCTION,1405
+2016,Industrial Waste,1402
+2018,Rodent,1397
+2014,Agency Issues,1389
+2014,Industrial Waste,1383
+2011,Overflowing Litter Baskets,1356
+2012,School Maintenance,1355
+2015,Sweeping/Missed,1348
+2015,Non-Residential Heat,1342
+2012,Sweeping/Missed-Inadequate,1337
+2013,Drinking,1332
+2010,Drinking,1325
+2013,Violation of Park Rules,1317
+2010,CONSTRUCTION,1312
+2013,School Maintenance,1306
+2017,Request Xmas Tree Collection,1301
+2017,DRIE,1299
+2010,DOF Parking - Request Status,1295
+2013,EAP Inspection - F59,1292
+2014,Noise - Helicopter,1290
+2010,Recycling Enforcement,1289
+2010,Street Sign - Dangling,1288
+2013,GENERAL,1283
+2014,Animal in a Park,1283
+2013,DOF Parking - Request Copy,1282
+2015,Derelict Bicycle,1281
+2011,Noise - Helicopter,1280
+2017,ELEVATOR,1278
+2017,OUTSIDE BUILDING,1273
+2011,DOF Parking - Request Copy,1272
+2013,BEST/Site Safety,1267
+2016,Indoor Sewage,1247
+2012,DOF Parking - Request Copy,1241
+2011,Drinking,1240
+2014,EAP Inspection - F59,1235
+2015,Water Quality,1232
+2012,Public Payphone Complaint,1230
+2013,Overflowing Litter Baskets,1225
+2010,Home Repair,1219
+2012,EAP Inspection - F59,1218
+2010,Disorderly Youth,1217
+2014,Derelict Bicycle,1212
+2015,Indoor Sewage,1209
+2018,Missed Collection (All Materials),1207
+2012,DOT Literature Request,1207
+2010,Sweeping/Missed-Inadequate,1200
+2013,Indoor Sewage,1189
+2014,Water Quality,1186
+2012,Drinking,1178
+2013,Water Quality,1174
+2011,Noise - House of Worship,1172
+2012,Overflowing Litter Baskets,1164
+2010,Non-Residential Heat,1156
+2011,Public Payphone Complaint,1148
+2016,Overflowing Litter Baskets,1146
+2010,Unleashed Dog,1145
+2017,Indoor Sewage,1144
+2011,Fire Safety Director - F58,1127
+2014,Drinking,1125
+2011,Home Repair,1119
+2016,Non-Residential Heat,1119
+2017,Non-Residential Heat,1118
+2018,Graffiti,1117
+2010,Public Payphone Complaint,1115
+2010,Noise - House of Worship,1112
+2017,DOF Parking - Tax Exemption,1101
+2016,Posting Advertisement,1100
+2016,OUTSIDE BUILDING,1098
+2014,Curb Condition,1095
+2015,ELEVATOR,1095
+2016,DOF Parking - Tax Exemption,1095
+2014,Request for Information,1090
+2012,Water Quality,1088
+2014,Overflowing Litter Baskets,1087
+2017,Overflowing Litter Baskets,1085
+2015,EAP Inspection - F59,1076
+2010,Elder Abuse,1071
+2015,Noise - House of Worship,1070
+2013,Curb Condition,1069
+2016,Cable Complaint,1066
+2013,Investigations and Discipline (IAD),1065
+2012,CONSTRUCTION,1064
+2017,Noise - Helicopter,1063
+2014,DOF Parking - Request Copy,1035
+2013,CONSTRUCTION,1033
+2010,BEST/Site Safety,1028
+2018,Noise - Street/Sidewalk,1025
+2014,DCA Literature Request,1024
+2014,Noise - House of Worship,1021
+2011,Unleashed Dog,1021
+2016,Noise - Helicopter,1013
+2012,Noise - House of Worship,1002
+2018,APPLIANCE,993
+2013,Noise - House of Worship,992
+2016,Broken Parking Meter,987
+2015,Recycling Enforcement,985
+2012,Non-Residential Heat,974
+2017,Sweeping/Missed,973
+2011,Recycling Enforcement,973
+2016,ELEVATOR,967
+2011,Window Guard,967
+2016,Mosquitoes,965
+2012,Indoor Sewage,960
+2012,BEST/Site Safety,947
+2018,DOF Property - Reduction Issue,943
+2015,DOF Parking - Tax Exemption,936
+2012,Recycling Enforcement,934
+2018,Noise - Vehicle,925
+2010,DOF Property - RPIE Issue,922
+2016,Noise - House of Worship,921
+2018,Electronics Waste,920
+2014,DOF Parking - Request Status,917
+2012,Home Repair,915
+2011,Disorderly Youth,909
+2011,BEST/Site Safety,908
+2017,Noise - House of Worship,906
+2011,Non-Residential Heat,901
+2018,Consumer Complaint,897
+2013,Taxi Compliment,895
+2013,PAINT/PLASTER,891
+2010,Water Quality,884
+2015,DCA Literature Request,871
+2018,Benefit Card Replacement,862
+2011,Water Quality,852
+2017,Recycling Enforcement,850
+2016,EAP Inspection - F59,847
+2011,Bridge Condition,835
+2013,Recycling Enforcement,835
+2015,Investigations and Discipline (IAD),823
+2015,Elder Abuse,820
+2010,Bridge Condition,818
+2012,Derelict Bicycle,815
+2011,HEAP Assistance,810
+2013,Animal Abuse,805
+2010,Unsanitary Pigeon Condition,795
+2015,Broken Parking Meter,791
+2014,Recycling Enforcement,789
+2010,DHS Advantage - Third Party,788
+2018,SAFETY,787
+2018,Taxi Complaint,786
+2016,Opinion for the Mayor,781
+2013,Derelict Bicycle,771
+2011,Elder Abuse,770
+2013,Noise - Helicopter,769
+2017,Unleashed Dog,768
+2018,DOF Property - Payment Issue,764
+2012,DOF Parking - Tax Exemption,758
+2018,Animal Abuse,757
+2014,Bridge Condition,754
+2010,Taxi Compliment,744
+2014,Taxi Compliment,731
+2014,Elder Abuse,728
+2012,Agency Issues,720
+2013,Elder Abuse,719
+2014,DOF Parking - Tax Exemption,717
+2014,ELEVATOR,709
+2016,Sweeping/Missed,705
+2012,Taxi Compliment,695
+2012,Unleashed Dog,691
+2012,Noise - Helicopter,691
+2015,Posting Advertisement,681
+2017,Panhandling,679
+2012,Elder Abuse,677
+2017,Mosquitoes,676
+2014,Request Xmas Tree Collection,674
+2013,Plant,663
+2013,Unleashed Dog,655
+2016,Recycling Enforcement,652
+2015,DOF Parking - Request Status,649
+2011,Unsanitary Pigeon Condition,648
+2016,Unsanitary Pigeon Condition,648
+2018,Non-Residential Heat,644
+2015,Unleashed Dog,644
+2011,Taxi Compliment,644
+2015,Urinating in Public,641
+2012,Unsanitary Pigeon Condition,640
+2011,EAP Inspection - F59,638
+2016,DOF Parking - Request Status,637
+2014,BEST/Site Safety,633
+2017,Unsanitary Pigeon Condition,628
+2012,Disorderly Youth,625
+2016,DRIE,623
+2017,DOF Parking - Request Copy,621
+2015,Unsanitary Pigeon Condition,616
+2015,DOF Parking - Request Copy,616
+2016,Unleashed Dog,615
+2015,Request for Information,613
+2018,For Hire Vehicle Complaint,612
+2010,DOF Property - City Rebate,611
+2018,Food Establishment,607
+2017,Request for Information,594
+2015,Taxi Compliment,594
+2016,Ferry Inquiry,588
+2016,DOF Parking - Request Copy,571
+2012,Snow,567
+2018,Broken Parking Meter,563
+2017,Ferry Inquiry,560
+2014,Unleashed Dog,557
+2017,Complaint,557
+2010,Utility Program,549
+2011,Found Property,548
+2014,Unsanitary Pigeon Condition,548
+2016,Day Care,541
+2010,Found Property,539
+2014,Ferry Inquiry,535
+2017,DOF Parking - Request Status,535
+2011,Ferry Inquiry,532
+2018,Damaged Tree,530
+2018,New Tree Request,525
+2010,Eviction,524
+2012,Ferry Inquiry,523
+2017,Urinating in Public,518
+2014,Disorderly Youth,517
+2013,Unsanitary Pigeon Condition,516
+2018,Maintenance or Facility,516
+2013,Bridge Condition,515
+2013,Disorderly Youth,514
+2013,DOF Parking - Tax Exemption,513
+2017,Day Care,511
+2018,DOF Property - Request Copy,509
+2018,DOT Literature Request,506
+2017,For Hire Vehicle Report,504
+2012,Found Property,499
+2016,BEST/Site Safety,499
+2015,Bridge Condition,498
+2010,Noise - Helicopter,497
+2017,BEST/Site Safety,497
+2013,Bike/Roller/Skate Chronic,489
+2010,Weatherization,489
+2010,Ferry Inquiry,488
+2014,Public Payphone Complaint,487
+2014,Taxi Report,483
+2010,DOF Parking - DMV Clearance,482
+2010,HEAP Assistance,479
+2013,Ferry Inquiry,479
+2015,Ferry Inquiry,479
+2015,Bike/Roller/Skate Chronic,478
+2016,Urinating in Public,477
+2014,Sweeping/Inadequate,475
+2014,Emergency Response Team (ERT),475
+2016,Elder Abuse,474
+2010,DOF Parking - Address Update,473
+2016,Panhandling,470
+2018,Non-Emergency Police Matter,467
+2012,Bridge Condition,464
+2011,Indoor Sewage,463
+2013,Homeless Person Assistance,458
+2010,Cranes and Derricks,452
+2016,DCA Literature Request,449
+2015,BEST/Site Safety,442
+2014,Mold,439
+2018,SCRIE,438
+2017,Forms,438
+2016,Taxi Compliment,438
+2011,Bike/Roller/Skate Chronic,437
+2018,Air Quality,435
+2010,Bike/Roller/Skate Chronic,434
+2011,Weatherization,432
+2014,Bike/Roller/Skate Chronic,432
+2013,Public Payphone Complaint,430
+2015,Public Payphone Complaint,427
+2015,Sweeping/Inadequate,426
+2016,Investigations and Discipline (IAD),425
+2017,Bike/Roller/Skate Chronic,420
+2014,Urinating in Public,417
+2016,Request for Information,417
+2016,For Hire Vehicle Report,412
+2013,Mold,412
+2018,Lead,412
+2018,Housing - Low Income Senior,410
+2011,Derelict Bicycle,409
+2017,DCA Literature Request,405
+2011,Utility Program,404
+2013,Found Property,402
+2011,Alzheimer's Care,401
+2011,DHS Advantage - Third Party,401
+2018,DOF Property - Update Account,399
+2012,HEAP Assistance,397
+2018,Other Enforcement,393
+2011,DOF Parking - DMV Clearance,392
+2014,Found Property,388
+2016,Senior Center Complaint,386
+2010,Alzheimer's Care,383
+2015,For Hire Vehicle Report,378
+2013,Urinating in Public,376
+2017,Taxi Compliment,376
+2012,Urinating in Public,374
+2011,Urinating in Public,370
+2016,Drug Activity,370
+2010,Senior Center Complaint,365
+2010,Posting Advertisement,365
+2010,Urinating in Public,360
+2018,DOF Parking - Payment Issue,359
+2013,Request for Information,358
+2017,Senior Center Complaint,357
+2015,DOF Property - Update Account,357
+2010,Plant,355
+2010,Scaffold Safety,355
+2011,City Vehicle Placard Complaint,355
+2016,Cranes and Derricks,353
+2013,Cranes and Derricks,352
+2016,Bike/Roller/Skate Chronic,351
+2014,Investigations and Discipline (IAD),351
+2017,Bridge Condition,350
+2010,Safety,350
+2012,Utility Program,348
+2012,Alzheimer's Care,348
+2012,Bike/Roller/Skate Chronic,348
+2013,City Vehicle Placard Complaint,347
+2017,Mold,346
+2016,Dead Tree,344
+2011,DOT Literature Request,344
+2016,City Vehicle Placard Complaint,343
+2014,Fire Alarm - Reinspection,343
+2015,Mold,343
+2013,Fire Alarm - Reinspection,342
+2013,DOF Property - RPIE Issue,340
+2012,Cranes and Derricks,339
+2010,City Vehicle Placard Complaint,338
+2016,Bridge Condition,337
+2010,Stalled Sites,336
+2014,Senior Center Complaint,335
+2017,Advocate-Personal Exemptions,330
+2015,Senior Center Complaint,328
+2015,Panhandling,327
+2017,Public Payphone Complaint,327
+2015,Found Property,326
+2012,Mold,321
+2018,Indoor Air Quality,320
+2017,Cranes and Derricks,319
+2013,Alzheimer's Care,316
+2015,City Vehicle Placard Complaint,316
+2016,Public Payphone Complaint,315
+2015,Disorderly Youth,315
+2017,DOF Property - Property Value,315
+2014,Plant,315
+2012,City Vehicle Placard Complaint,314
+2013,OEM Literature Request,314
+2016,Mold,313
+2014,DOF Property - RPIE Issue,309
+2018,Highway Condition,308
+2010,Bus Stop Shelter Placement,308
+2011,OEM Disabled Vehicle,303
+2017,Fire Safety Director - F58,302
+2014,Cranes and Derricks,302
+2017,Sweeping/Inadequate,300
+2015,Ferry Complaint,299
+2017,Elder Abuse,298
+2018,School Maintenance,298
+2017,Found Property,296
+2018,Plumbing,296
+2016,Found Property,294
+2011,Scaffold Safety,294
+2014,City Vehicle Placard Complaint,293
+2017,Ferry Complaint,293
+2011,Cranes and Derricks,293
+2012,Senior Center Complaint,290
+2013,Miscellaneous Categories,288
+2010,DOE Complaint or Compliment,287
+2015,Illegal Animal Kept as Pet,286
+2015,Fire Alarm - Reinspection,286
+2016,Illegal Animal Kept as Pet,285
+2017,Investigations and Discipline (IAD),285
+2011,DOF Parking - Tax Exemption,285
+2016,Scaffold Safety,284
+2010,Ferry Complaint,283
+2018,Street Sign - Missing,282
+2013,Senior Center Complaint,280
+2011,Senior Center Complaint,280
+2013,Bus Stop Shelter Placement,280
+2014,OEM Literature Request,280
+2018,Special Enforcement,270
+2016,Fire Alarm - Reinspection,269
+2017,DOF Property - RPIE Issue,269
+2018,Special Projects Inspection Team (SPIT),269
+2018,Street Sign - Damaged,268
+2014,Harboring Bees/Wasps,265
+2018,Electrical,265
+2014,CONSTRUCTION,264
+2012,Fire Alarm - Reinspection,264
+2017,DEP Literature Request,263
+2018,Sidewalk Condition,261
+2018,Root/Sewer/Sidewalk Condition,261
+2017,Illegal Animal Kept as Pet,260
+2016,Sweeping/Inadequate,260
+2015,Cranes and Derricks,260
+2012,Bus Stop Shelter Placement,259
+2016,DEP Literature Request,256
+2011,DOF Property - City Rebate,255
+2014,Alzheimer's Care,254
+2017,Question,253
+2012,Illegal Animal Kept as Pet,251
+2011,DOF Property - RPIE Issue,251
+2011,Bus Stop Shelter Placement,251
+2015,Plant,250
+2017,Scaffold Safety,250
+2015,Scaffold Safety,248
+2012,Plant,246
+2017,Illegal Fireworks,245
+2016,DOF Property - RPIE Issue,244
+2013,DPR Internal,244
+2014,Illegal Animal Kept as Pet,242
+2012,Weatherization,236
+2017,Collection Truck Noise,236
+2011,DOE Complaint or Compliment,236
+2011,Safety,235
+2013,Illegal Animal Kept as Pet,234
+2017,Bus Stop Shelter Placement,234
+2016,Ferry Complaint,234
+2010,Miscellaneous Categories,233
+2016,Disorderly Youth,232
+2012,Illegal Fireworks,230
+2016,Alzheimer's Care,228
+2015,DOF Property - RPIE Issue,226
+2015,Alzheimer's Care,225
+2011,Mold,225
+2012,Scaffold Safety,225
+2014,Illegal Fireworks,223
+2010,Illegal Animal Kept as Pet,223
+2012,Beach/Pool/Sauna Complaint,223
+2010,Teaching/Learning/Instruction,223
+2015,Harboring Bees/Wasps,223
+2017,LinkNYC,223
+2016,Forms,223
+2010,Discipline and Suspension,222
+2011,Agency Issues,222
+2011,Illegal Animal Kept as Pet,221
+2014,Bus Stop Shelter Placement,217
+2016,Plant,217
+2016,DOF Property - Property Value,216
+2018,HPD Literature Request,216
+2011,Illegal Fireworks,215
+2012,DOF Parking - DMV Clearance,215
+2011,Posting Advertisement,214
+2016,Illegal Fireworks,211
+2018,Boilers,210
+2010,Illegal Fireworks,209
+2014,Scaffold Safety,204
+2011,Ferry Complaint,204
+2016,Collection Truck Noise,204
+2014,Fire Alarm - New System,203
+2014,Ferry Complaint,203
+2015,DEP Literature Request,201
+2014,DOF Property - Property Value,199
+2012,Stalled Sites,199
+2018,Food Poisoning,198
+2015,Bus Stop Shelter Placement,198
+2016,Complaint,198
+2016,Bus Stop Shelter Placement,197
+2012,OEM Literature Request,197
+2011,Fire Alarm - Reinspection,196
+2011,Teaching/Learning/Instruction,195
+2011,Bike Rack Condition,195
+2015,Collection Truck Noise,193
+2013,Fire Alarm - New System,192
+2013,Panhandling,188
+2018,Traffic,188
+2018,Overgrown Tree/Branches,187
+2017,Harboring Bees/Wasps,187
+2014,Collection Truck Noise,186
+2012,Request for Information,186
+2015,DOF Parking - DMV Clearance,185
+2017,Alzheimer's Care,184
+2013,Ferry Complaint,184
+2011,Complaint,184
+2015,Beach/Pool/Sauna Complaint,183
+2012,Complaint,182
+2010,Beach/Pool/Sauna Complaint,180
+2012,Harboring Bees/Wasps,179
+2013,Illegal Fireworks,178
+2010,Home Delivered Meal - Missed Delivery,177
+2016,Harboring Bees/Wasps,177
+2012,Forensic Engineering,177
+2018,Opinion for the Mayor,176
+2012,Collection Truck Noise,175
+2017,Emergency Response Team (ERT),173
+2015,Illegal Fireworks,172
+2016,Beach/Pool/Sauna Complaint,170
+2017,Beach/Pool/Sauna Complaint,168
+2016,Emergency Response Team (ERT),167
+2012,Posting Advertisement,166
+2014,Fire Alarm - Modification,166
+2014,Complaint,166
+2012,DOF Property - RPIE Issue,165
+2014,Beach/Pool/Sauna Complaint,164
+2011,Discipline and Suspension,163
+2015,OEM Literature Request,163
+2013,Scaffold Safety,162
+2017,Poison Ivy,161
+2017,Disorderly Youth,161
+2015,Complaint,161
+2012,Ferry Complaint,160
+2018,Dead/Dying Tree,159
+2012,Panhandling,156
+2013,Home Repair,155
+2013,DOF Parking - DMV Clearance,155
+2011,Beach/Pool/Sauna Complaint,154
+2018,Smoking,153
+2018,Street Sign - Dangling,153
+2011,Plant,153
+2017,Plant,151
+2016,Drinking Water,148
+2012,Compliment,147
+2013,Beach/Pool/Sauna Complaint,146
+2010,Collection Truck Noise,146
+2014,Panhandling,146
+2016,Adopt-A-Basket,145
+2013,Broken Parking Meter,145
+2018,Hazardous Materials,144
+2013,Complaint,144
+2015,Drinking Water,143
+2010,FHE,143
+2018,Cable Complaint,143
+2013,Emergency Response Team (ERT),141
+2014,Poison Ivy,138
+2017,Posting Advertisement,138
+2011,Harboring Bees/Wasps,138
+2017,Adopt-A-Basket,137
+2013,Collection Truck Noise,137
+2014,Compliment,137
+2010,Panhandling,136
+2012,Fire Alarm - New System,136
+2014,Drinking Water,136
+2015,Compliment,136
+2012,Home Delivered Meal - Missed Delivery,135
+2015,Bike Rack Condition,134
+2015,Home Delivered Meal - Missed Delivery,134
+2012,Miscellaneous Categories,134
+2013,Bike Rack Condition,134
+2010,Forensic Engineering,134
+2010,Mold,133
+2018,Agency Issues,133
+2015,Emergency Response Team (ERT),133
+2018,Housing Options,132
+2013,Fire Alarm - Modification,132
+2016,Poison Ivy,131
+2015,Poison Ivy,131
+2013,Home Delivered Meal - Missed Delivery,131
+2016,Fire Alarm - New System,131
+2010,Harboring Bees/Wasps,130
+2013,Compliment,130
+2012,DOF Property - City Rebate,129
+2010,Home Delivered Meal Complaint,128
+2014,Broken Parking Meter,128
+2018,DOF Property - Owner Issue,127
+2011,Miscellaneous Categories,127
+2011,Home Delivered Meal - Missed Delivery,125
+2011,Collection Truck Noise,125
+2014,Home Delivered Meal - Missed Delivery,125
+2014,Unsanitary Animal Facility,124
+2013,Poison Ivy,124
+2016,DOF Parking - DMV Clearance,123
+2018,Homeless Encampment,123
+2011,Summer Camp,122
+2017,Pet Shop,121
+2015,Fire Alarm - Modification,121
+2014,Posting Advertisement,120
+2017,Drinking Water,120
+2015,DOF Property - Property Value,119
+2017,DOF Parking - DMV Clearance,118
+2015,Fire Alarm - New System,118
+2010,Registration and Transfers,117
+2013,Drinking Water,117
+2016,Public Assembly,117
+2016,ATF,116
+2011,Panhandling,115
+2017,Compliment,115
+2012,Curb Condition,114
+2013,DPR Literature Request,114
+2017,Public Assembly,113
+2013,Harboring Bees/Wasps,112
+2010,Tattooing,112
+2018,Drug Activity,110
+2010,Municipal Parking Facility,110
+2013,DOF Property - Property Value,110
+2012,Poison Ivy,110
+2016,Bike Rack Condition,109
+2016,Home Delivered Meal Complaint,108
+2013,Tattooing,107
+2012,Bike Rack Condition,107
+2015,Home Delivered Meal Complaint,106
+2018,DRIE,106
+2013,Posting Advertisement,106
+2013,DOF Property - City Rebate,105
+2017,Bike Rack Condition,105
+2017,Special Natural Area District (SNAD),105
+2014,DOF Parking - DMV Clearance,105
+2017,OEM Literature Request,105
+2018,Litter Basket / Request,105
+2018,Unsanitary Animal Pvt Property,103
+2010,Health,103
+2015,ATF,102
+2016,Fire Alarm - Modification,102
+2017,Misc. Comments,101
+2014,DPR Literature Request,101
+2012,Summer Camp,100
+2017,Tattooing,100
+2012,Tattooing,100
+2018,Asbestos,99
+2017,Taxpayer Advocate Inquiry,99
+2015,Municipal Parking Facility,98
+2018,Vending,98
+2014,Bike Rack Condition,98
+2010,Animal Facility - No Permit,97
+2010,Summer Camp,97
+2015,Tattooing,96
+2018,Taxi Report,96
+2016,OEM Literature Request,93
+2016,Compliment,92
+2016,Special Natural Area District (SNAD),92
+2011,Poison Ivy,91
+2011,Request for Information,90
+2013,DCA Literature Request,90
+2010,Parking Card,90
+2016,Home Delivered Meal - Missed Delivery,90
+2011,Municipal Parking Facility,90
+2010,Unsanitary Animal Facility,90
+2015,Unsanitary Animal Facility,89
+2015,Literature Request,89
+2010,Highway Sign - Damaged,88
+2017,Municipal Parking Facility,88
+2010,Derelict Bicycle,88
+2012,DCA Literature Request,88
+2014,Municipal Parking Facility,87
+2017,ATF,87
+2010,Poison Ivy,87
+2017,City Vehicle Placard Complaint,87
+2011,Tattooing,87
+2017,Highway Sign - Damaged,85
+2017,Invitation,85
+2018,Water Quality,84
+2011,Unsanitary Animal Facility,83
+2013,Special Natural Area District (SNAD),83
+2014,Highway Sign - Damaged,82
+2013,Unsanitary Animal Facility,82
+2018,Indoor Sewage,81
+2018,Illegal Tree Damage,81
+2017,Home Delivered Meal - Missed Delivery,81
+2018,ELEVATOR,81
+2016,Tattooing,81
+2012,Unsanitary Animal Facility,80
+2018,Question,80
+2016,Ferry Permit,79
+2016,Highway Sign - Damaged,78
+2013,ATF,77
+2017,Home Delivered Meal Complaint,77
+2013,DHS Advantage - Tenant,77
+2014,Tattooing,77
+2014,Animal Facility - No Permit,77
+2011,Parking Card,75
+2010,Special Natural Area District (SNAD),75
+2013,Home Delivered Meal Complaint,74
+2015,Animal Facility - No Permit,74
+2016,Misc. Comments,74
+2016,Literature Request,74
+2017,Unsanitary Animal Facility,74
+2017,Fire Alarm - Reinspection,74
+2012,Home Delivered Meal Complaint,73
+2011,Registration and Transfers,73
+2012,Invitation,73
+2012,Misc. Comments,73
+2014,Miscellaneous Categories,73
+2012,Fire Alarm - Modification,73
+2011,Fire Alarm - New System,73
+2018,OUTSIDE BUILDING,72
+2015,Special Natural Area District (SNAD),72
+2012,Drinking Water,70
+2018,Curb Condition,69
+2013,Invitation,69
+2014,Misc. Comments,69
+2014,Home Delivered Meal Complaint,69
+2011,Animal Facility - No Permit,69
+2016,Advocate-Personal Exemptions,69
+2015,Misc. Comments,68
+2016,Municipal Parking Facility,68
+2013,Stalled Sites,68
+2010,Drinking Water,68
+2018,Industrial Waste,68
+2011,Home Delivered Meal Complaint,67
+2011,Fire Alarm - Modification,67
+2017,Comments,67
+2016,Invitation,67
+2012,DPR Literature Request,67
+2018,DCA / DOH New License Application Request,67
+2016,DOR Literature Request,67
+2018,Animal in a Park,67
+2015,Miscellaneous Categories,65
+2016,Unsanitary Animal Facility,65
+2018,Derelict Bicycle,65
+2012,ATF,65
+2014,For Hire Vehicle Report,63
+2015,Adopt-A-Basket,61
+2011,Health,61
+2012,Highway Sign - Damaged,61
+2018,DOF Parking - Request Copy,61
+2011,Special Natural Area District (SNAD),61
+2016,Animal Facility - No Permit,60
+2017,FCST,59
+2017,Illegal Animal Sold,59
+2011,DHS Income Savings Requirement,59
+2011,Emergency Response Team (ERT),59
+2013,Animal Facility - No Permit,59
+2015,Public Toilet,58
+2017,Animal Facility - No Permit,58
+2013,Misc. Comments,57
+2010,Public Toilet,57
+2012,Animal Facility - No Permit,56
+2013,Highway Sign - Damaged,56
+2015,Ferry Permit,56
+2017,Public Toilet,56
+2017,Advocate - Other,56
+2012,Special Natural Area District (SNAD),56
+2014,Overflowing Recycling Baskets,55
+2012,DHS Income Savings Requirement,55
+2016,Illegal Animal Sold,55
+2011,Highway Sign - Damaged,54
+2018,Complaint,54
+2011,Drinking Water,54
+2012,Illegal Animal Sold,54
+2016,Window Guard,53
+2015,Illegal Animal Sold,53
+2018,DPR Internal,53
+2013,Adopt-A-Basket,53
+2012,Public Toilet,53
+2014,Illegal Animal Sold,53
+2017,Ferry Permit,53
+2018,Unsanitary Pigeon Condition,52
+2015,Window Guard,52
+2016,Taxpayer Advocate Inquiry,52
+2016,LinkNYC,52
+2013,Parking Card,51
+2012,DHS Advantage - Third Party,51
+2014,Special Natural Area District (SNAD),51
+2013,Municipal Parking Facility,50
+2018,DOF Property - Property Value,50
+2017,FATF,50
+2012,Window Guard,49
+2017,Fire Alarm - New System,49
+2014,Invitation,49
+2015,Highway Sign - Damaged,49
+2012,Municipal Parking Facility,49
+2014,Parking Card,48
+2012,Emergency Response Team (ERT),48
+2012,Public Assembly,47
+2017,EAP Inspection - F59,47
+2014,ATF,46
+2013,DFTA Literature Request,46
+2013,DHS Advantage -Landlord/Broker,46
+2018,FCST,45
+2015,DOF Property - City Rebate,44
+2016,OEM Disabled Vehicle,44
+2013,Public Toilet,44
+2014,Window Guard,43
+2014,DOF Property - City Rebate,43
+2011,Bereavement Support Group,42
+2014,Open Flame Permit,42
+2015,Stalled Sites,42
+2013,Window Guard,42
+2018,Recycling Enforcement,42
+2018,Noise - Helicopter,41
+2018,Drinking,41
+2015,Invitation,41
+2012,Adopt-A-Basket,41
+2015,Parking Card,41
+2017,Miscellaneous Categories,41
+2018,Day Care,40
+2012,Bereavement Support Group,39
+2015,Highway Sign - Missing,39
+2016,Public Toilet,39
+2018,Sweeping/Missed,39
+2012,Parking Card,39
+2010,DOF Property - Property Value,39
+2015,Overflowing Recycling Baskets,38
+2018,Unleashed Dog,38
+2013,Open Flame Permit,38
+2013,Illegal Animal Sold,38
+2010,Bereavement Support Group,37
+2011,Compliment,37
+2018,DOF Parking - Request Status,37
+2011,Stalled Sites,37
+2015,Open Flame Permit,37
+2014,Ferry Permit,36
+2011,OEM Literature Request,36
+2010,Adopt-A-Basket,36
+2015,Public Assembly,36
+2011,Legal Services Provider Complaint,36
+2013,Ferry Permit,36
+2012,Forms,35
+2017,Bereavement Support Group,35
+2013,Highway Sign - Missing,35
+2017,Highway Sign - Missing,35
+2018,Vacant Lot,35
+2016,Case Management Agency Complaint,34
+2014,Home Care Provider Complaint,34
+2010,Parent Leadership,34
+2013,Public Assembly,34
+2011,Highway Sign - Missing,33
+2018,For Hire Vehicle Report,33
+2014,Adopt-A-Basket,33
+2010,Ferry Permit,33
+2018,DOF Parking - Tax Exemption,33
+2010,Home Care Provider Complaint,33
+2017,Home Care Provider Complaint,33
+2011,Public Toilet,33
+2012,Highway Sign - Missing,32
+2017,Cooling Tower,32
+2016,Overflowing Recycling Baskets,32
+2017,Rangehood,32
+2010,Calorie Labeling,32
+2010,Illegal Animal Sold,31
+2016,Home Care Provider Complaint,31
+2011,Case Management Agency Complaint,31
+2010,Case Management Agency Complaint,31
+2011,Parent Leadership,30
+2017,Sweeping/Missed-Inadequate,30
+2018,Violation of Park Rules,30
+2017,Lifeguard,30
+2016,Sweeping/Missed-Inadequate,30
+2012,Transportation Provider Complaint,30
+2016,Advocate - Other,30
+2014,Highway Sign - Missing,29
+2012,Ferry Permit,29
+2016,Research Questions,29
+2016,Miscellaneous Categories,29
+2016,Open Flame Permit,29
+2010,Highway Sign - Missing,29
+2017,Transportation Provider Complaint,29
+2016,Rangehood,29
+2013,Bereavement Support Group,28
+2014,Public Toilet,28
+2014,Stalled Sites,28
+2017,Case Management Agency Complaint,28
+2012,Legal Services Provider Complaint,28
+2017,Fire Alarm - Modification,27
+2017,Advocate-Prop Refunds/Credits,27
+2011,Home Care Provider Complaint,27
+2010,Water Maintenance,27
+2017,Advocate-Co-opCondo Abatement,27
+2017,Sprinkler - Mechanical,27
+2012,Home Care Provider Complaint,27
+2011,Misc. Comments,26
+2018,Taxi Compliment,26
+2013,Transportation Provider Complaint,26
+2016,Sprinkler - Mechanical,26
+2014,Public Assembly,26
+2015,Home Care Provider Complaint,25
+2011,Adopt-A-Basket,25
+2015,DFTA Literature Request,25
+2017,Window Guard,25
+2011,Illegal Animal Sold,25
+2018,Mold,25
+2018,Bus Stop Shelter Placement,24
+2016,Highway Sign - Missing,24
+2018,Bridge Condition,24
+2018,Elder Abuse,24
+2013,Case Management Agency Complaint,24
+2017,Research Questions,24
+2015,Day Care,24
+2012,Case Management Agency Complaint,24
+2015,Bereavement Support Group,23
+2018,Request for Information,23
+2015,FATF,23
+2018,Senior Center Complaint,23
+2018,Noise - Park,23
+2012,Fire Alarm - Addition,23
+2014,Case Management Agency Complaint,23
+2013,Fire Alarm - Addition,23
+2010,Legal Services Provider Complaint,22
+2016,Highway Sign - Dangling,22
+2017,Overflowing Recycling Baskets,22
+2012,Open Flame Permit,22
+2014,Fire Alarm - Addition,22
+2015,Transportation Provider Complaint,22
+2016,Bereavement Support Group,21
+2018,Ferry Inquiry,21
+2018,DEP Literature Request,21
+2018,DCA Literature Request,21
+2013,Home Care Provider Complaint,21
+2018,Noise - House of Worship,20
+2011,Ferry Permit,20
+2012,DFTA Literature Request,20
+2018,Advocate-Personal Exemptions,20
+2017,Open Flame Permit,20
+2011,Forensic Engineering,20
+2013,Fire Alarm - Replacement,20
+2018,BEST/Site Safety,20
+2018,Forms,20
+2012,Fire Alarm - Replacement,20
+2014,Legal Services Provider Complaint,19
+2017,Tunnel Condition,19
+2016,Parking Card,19
+2015,Case Management Agency Complaint,19
+2014,Lifeguard,19
+2011,Radioactive Material,19
+2015,Fire Alarm - Addition,19
+2011,Invitation,18
+2018,Alzheimer's Care,18
+2010,Bottled Water,18
+2018,Found Property,18
+2013,Legal Services Provider Complaint,18
+2011,X-Ray Machine/Equipment,18
+2013,DHS Income Savings Requirement,18
+2015,Lifeguard,17
+2011,Lifeguard,17
+2012,X-Ray Machine/Equipment,17
+2010,Bike Rack Condition,17
+2011,Calorie Labeling,17
+2013,Tunnel Condition,17
+2011,Bottled Water,17
+2013,Calorie Labeling,17
+2015,Bottled Water,16
+2016,Fire Alarm - Addition,16
+2018,Cranes and Derricks,16
+2018,Ferry Complaint,16
+2014,DFTA Literature Request,16
+2016,DFTA Literature Request,16
+2018,Home Delivered Meal - Missed Delivery,16
+2016,Advocate-Co-opCondo Abatement,16
+2012,Calorie Labeling,16
+2016,Legal Services Provider Complaint,16
+2014,Bereavement Support Group,16
+2013,STRUCTURAL,16
+2017,Advocate-Property Value,16
+2015,Foam Ban Enforcement,16
+2016,DOF Property - City Rebate,15
+2015,Highway Sign - Dangling,15
+2017,Highway Sign - Dangling,15
+2011,DOF Parking - Address Update,15
+2016,Bottled Water,15
+2010,Highway Sign - Dangling,15
+2010,No Child Left Behind,15
+2013,HPD Literature Request,15
+2017,Legal Services Provider Complaint,15
+2014,Transportation Provider Complaint,15
+2014,Fire Alarm - Replacement,15
+2013,Bottled Water,14
+2014,Highway Sign - Dangling,14
+2014,DEP Literature Request,14
+2014,Tunnel Condition,14
+2014,Bottled Water,14
+2016,Fire Alarm - Replacement,14
+2013,X-Ray Machine/Equipment,14
+2018,DOF Property - RPIE Issue,14
+2016,Tunnel Condition,14
+2012,Highway Sign - Dangling,14
+2018,Bike/Roller/Skate Chronic,14
+2011,Public Assembly,13
+2017,Calorie Labeling,13
+2016,Transportation Provider Complaint,13
+2015,DHS Income Savings Requirement,13
+2018,Emergency Response Team (ERT),13
+2018,Collection Truck Noise,13
+2015,Legal Services Provider Complaint,13
+2016,Lifeguard,13
+2018,Urinating in Public,13
+2018,Panhandling,13
+2013,Highway Sign - Dangling,13
+2014,DHS Advantage - Tenant,12
+2010,Lifeguard,12
+2016,Tanning,12
+2016,Advocate-Prop Refunds/Credits,12
+2012,Standpipe - Mechanical,12
+2018,Investigations and Discipline (IAD),12
+2015,Advocate-Personal Exemptions,12
+2016,X-Ray Machine/Equipment,12
+2018,Scaffold Safety,12
+2014,X-Ray Machine/Equipment,12
+2015,Tunnel Condition,12
+2018,Overflowing Litter Baskets,12
+2014,Sprinkler - Mechanical,11
+2017,Bottled Water,11
+2012,Bottled Water,11
+2011,Sprinkler - Mechanical,11
+2015,Calorie Labeling,11
+2017,Hazmat Storage/Use,11
+2011,Fire Alarm - Addition,11
+2017,Fire Alarm - Addition,11
+2017,Tanning,11
+2017,Parking Card,11
+2013,Lifeguard,10
+2010,Transportation Provider Complaint,10
+2017,Standpipe - Mechanical,10
+2018,Beach/Pool/Sauna Complaint,10
+2018,OEM Literature Request,10
+2016,Standpipe - Mechanical,10
+2018,Compliment,10
+2015,Advocate-SCRIE/DRIE,10
+2018,Taxpayer Advocate Inquiry,9
+2012,Radioactive Material,9
+2018,Municipal Parking Facility,9
+2018,Tattooing,9
+2014,Hazmat Storage/Use,9
+2018,LinkNYC,9
+2011,Squeegee,9
+2015,Hazmat Storage/Use,9
+2011,Transportation Provider Complaint,9
+2018,Sweeping/Inadequate,9
+2010,Portable Toilet,9
+2016,Calorie Labeling,9
+2016,Radioactive Material,9
+2014,DHS Income Savings Requirement,9
+2018,DOF Parking - DMV Clearance,9
+2014,Radioactive Material,8
+2015,X-Ray Machine/Equipment,8
+2012,DOF Property - Property Value,8
+2010,Squeegee,8
+2015,Fire Alarm - Replacement,8
+2014,Calorie Labeling,8
+2011,No Child Left Behind,8
+2018,Advocate - Other,8
+2010,Tunnel Condition,7
+2015,Taxpayer Advocate Inquiry,7
+2018,Public Payphone Complaint,7
+2017,X-Ray Machine/Equipment,7
+2012,Lifeguard,7
+2016,Advocate-Property Value,7
+2010,DOF Property - State Rebate,7
+2016,SRDE,7
+2015,SRDE,7
+2011,Lost Property,7
+2015,Sprinkler - Mechanical,7
+2018,Posting Advertisement,7
+2018,SRGDBR,6
+2012,Trans Fat,6
+2018,Invitation,6
+2014,DHS Advantage -Landlord/Broker,6
+2015,Rangehood,6
+2012,Rangehood,6
+2017,Advocate-Commercial Exemptions,6
+2018,Public Assembly,6
+2018,Advocate-Prop Refunds/Credits,6
+2017,Gas Station Discharge Lines,6
+2016,Hazmat Storage/Use,6
+2012,Sprinkler - Mechanical,6
+2017,Radioactive Material,6
+2010,Radioactive Material,6
+2012,Building Condition,6
+2018,Illegal Animal Kept as Pet,6
+2011,Highway Sign - Dangling,6
+2012,FATF,5
+2016,Healthcare Facilities,5
+2014,Public Assembly - Temporary,5
+2016,FATF,5
+2017,Advocate-Prop Class Incorrect,5
+2013,Radioactive Material,5
+2013,Sprinkler - Mechanical,5
+2013,Building Condition,5
+2016,Advocate-UBT,5
+2016,Public Assembly - Temporary,5
+2016,Squeegee,5
+2013,Summer Camp,5
+2017,Interior Demo,5
+2018,Home Delivered Meal Complaint,5
+2012,Squeegee,5
+2017,DFTA Literature Request,5
+2010,Trans Fat,5
+2015,Tanning,5
+2015,Advocate - Other,5
+2013,Standpipe - Mechanical,5
+2015,Radioactive Material,5
+2013,Trans Fat,4
+2016,Advocate-Commercial Exemptions,4
+2012,GENERAL,4
+2017,NORC Complaint,4
+2018,Pet Shop,4
+2010,X-Ray Machine/Equipment,4
+2011,DCA Literature Request,4
+2014,Trans Fat,4
+2014,Tanning,4
+2010,Hazardous Material,4
+2018,Request Xmas Tree Collection,4
+2015,Squeegee,4
+2011,Rangehood,4
+2013,Rangehood,4
+2017,Fire Alarm - Replacement,4
+2018,Drinking Water,4
+2016,NORC Complaint,4
+2015,Interior Demo,4
+2012,NORC Complaint,4
+2012,Public Assembly - Temporary,4
+2013,Hazmat Storage/Use,4
+2017,SRDE,4
+2017,SRGDBR,4
+2011,ATF,3
+2012,Comment,3
+2014,Standpipe - Mechanical,3
+2014,Literature Request,3
+2015,Building Condition,3
+2018,Plant,3
+2011,Fire Alarm - Replacement,3
+2011,Tunnel Condition,3
+2015,Public Assembly - Temporary,3
+2018,Unsanitary Animal Facility,3
+2017,Building Condition,3
+2018,Legal Services Provider Complaint,3
+2016,Trans Fat,3
+2018,Illegal Fireworks,3
+2011,Trans Fat,3
+2014,NORC Complaint,3
+2018,Misc. Comments,3
+2018,Comments,3
+2018,Advocate-Co-opCondo Abatement,3
+2013,Public Assembly - Temporary,3
+2017,Public Assembly - Temporary,3
+2018,Bereavement Support Group,3
+2017,Trans Fat,3
+2017,AGENCY,3
+2017,Stalled Sites,3
+2018,Special Natural Area District (SNAD),3
+2015,Standpipe - Mechanical,3
+2018,Highway Sign - Damaged,3
+2012,Tunnel Condition,3
+2018,Fire Alarm - Reinspection,3
+2012,Hazmat Storage/Use,3
+2016,Request Xmas Tree Collection,3
+2016,Interior Demo,3
+2018,Public Toilet,2
+2014,FATF,2
+2018,Case Management Agency Complaint,2
+2018,Standpipe - Mechanical,2
+2015,NORC Complaint,2
+2017,Squeegee,2
+2018,Advocate-Commercial Exemptions,2
+2014,VACANT APARTMENT,2
+2011,Open Flame Permit,2
+2016,Advocate-Business Tax,2
+2016,Construction,2
+2011,Portable Toilet,2
+2016,VACANT APARTMENT,2
+2018,Rangehood,2
+2018,Disorderly Youth,2
+2016,Laboratory,2
+2014,Rangehood,2
+2018,Illegal Animal Sold,2
+2018,Ferry Permit,2
+2015,DPR Literature Request,2
+2013,Sweeping/Missed,2
+2013,DHS Advantage - Third Party,2
+2018,Bike Rack Condition,2
+2015,Forensic Engineering,2
+2014,AGENCY,2
+2011,Building Condition,2
+2011,Forms,2
+2014,Squeegee,2
+2018,Harboring Bees/Wasps,2
+2018,Animal Facility - No Permit,2
+2016,AGENCY,2
+2017,VACANT APARTMENT,2
+2017,Advocate - RPIE,2
+2018,Research Questions,2
+2018,Highway Sign - Missing,2
+2014,Building Condition,2
+2018,Lifeguard,2
+2012,Teaching/Learning/Instruction,2
+2016,Advocate-SCRIE/DRIE,2
+2018,Adopt-A-Basket,2
+2013,Squeegee,2
+2015,VACANT APARTMENT,2
+2015,Advocate - RPIE,1
+2016,LEAD,1
+2012,DPR Internal,1
+2018,Interior Demo,1
+2010,Trapping Pigeon,1
+2013,Literature Request,1
+2010,Sewer Maintenance,1
+2015,AGENCY,1
+2018,Sprinkler - Mechanical,1
+2018,Fire Alarm - Modification,1
+2017,Advocate-Business Tax,1
+2017,Healthcare Facilities,1
+2016,Gas Station Discharge Lines,1
+2014,HEAP Assistance,1
+2016,Trapping Pigeon,1
+2017,Advocate - Levy,1
+2018,EAP Inspection - F59,1
+2018,Window Guard,1
+2013,FATF,1
+2017,CST,1
+2012,PAINT/PLASTER,1
+2011,Eviction,1
+2011,Benefit Card Replacement,1
+2012,Unlicensed Dog,1
+2011,Micro Switch,1
+2011,Interior Demo,1
+2018,Elevator,1
+2018,Poison Ivy,1
+2017,Advocate-SCRIE/DRIE,1
+2018,Select Message Type...,1
+2012,DOF Parking - Address Update,1
+2016,Advocate - RPIE,1
+2015,Laboratory,1
+2017,SRGDM,1
+2016,Asbestos/Garbage Nuisance,1
+2016,Stalled Sites,1
+2018,Advocate-Property Value,1
+2013,Portable Toilet,1
+2017,Advocate - Lien,1
+2014,Gas Station Discharge Lines,1
+2018,Miscellaneous Categories,1
+2011,Hazmat Storage/Use,1
+2018,Radioactive Material,1
+2014,SG-99,1
+2012,Portable Toilet,1
+2011,Public Assembly - Temporary,1
+2015,Gas Station Discharge Lines,1
+2013,NORC Complaint,1
+2011,Standpipe - Mechanical,1
+2018,Highway Sign - Dangling,1
+2013,SNW,1
+2015,Advocate-Prop Class Incorrect,1
+2015,Advocate-Commercial Exemptions,1
+2018,Fire Alarm - Replacement,1
+2017,Sidewalk Cafe Heater,1
+2018,Standing Water,1
+2015,Unspecified,1
+2012,DEP Literature Request,1
+2018,Hazmat Storage/Use,1
+2018,FATF,1
+2016,Building Condition,1
+2014,Meals Home Delivery Required,1
+2016,MOLD,1
+2018,Tanning,1
+2011,NORC Complaint,1

@@ -1,0 +1,44 @@
+descriptor,total_complaint_count,data_count,corr_count,corr_pct
+HEAT/HOT WATER: ENTIRE BUILDING,554680,919,-0.811,-0.811
+HEATING: HEAT,871935,998,-0.799,-0.799
+HEAT/HOT WATER: APARTMENT ONLY,294893,919,-0.783,-0.783
+Maintenance or Facility: Structure - Outdoors,35731,1342,0.768,0.768
+PLUMBING: RADIATOR,54317,1376,-0.748,-0.748
+Sanitation Condition: 22 Weeds,14195,1027,0.733,0.733
+Dead Tree: Dead/Dying Tree,57495,1214,0.726,0.726
+Maintenance or Facility: Garbage or Litter,15518,1260,0.711,0.711
+Noise - Vehicle: Car/Truck Music,78780,1377,0.706,0.706
+Noise - Street/Sidewalk: Loud Talking,109951,1385,0.698,0.698
+Overgrown Tree/Branches: Hitting Building,37664,1327,0.691,0.691
+Dead/Dying Tree: Planted More Than 2 Years Ago,19044,559,0.683,0.683
+Rodent: Condition Attracting Rodents,53884,1384,0.673,0.673
+Sanitation Condition: 12 Dead Animals,68159,1379,0.667,0.667
+Dirty Conditions: E3A Dirty Area/Alleyway,47506,1377,0.664,0.664
+Boilers: Boiler - Defective/Inoperative/No Permit,13810,1325,-0.662,-0.662
+Overgrown Tree/Branches: Hitting Power/Phone Lines,26413,1324,0.649,0.649
+Overgrown Tree/Branches: Dead Branches in Tree,20618,1308,0.647,0.647
+Homeless Encampment: N/A,26430,1368,0.633,0.633
+Overgrown Tree/Branches: Blocking Street,21135,1240,0.632,0.632
+Vacant Lot: 8 Request to Clean Vacant Lot,17317,1311,0.623,0.623
+Rodent: Rat Sighting,107316,1385,0.622,0.622
+Non-Residential Heat: Inadequate or No Heat,10228,816,-0.608,-0.608
+DPR Internal: Aided/Injury,5604,938,0.601,0.601
+Street Condition: Cave-in,79858,1382,0.588,0.588
+Maintenance or Facility: Grass/Weeds,6939,945,0.564,0.564
+Drinking: In Public,6691,1100,0.562,0.562
+Root/Sewer/Sidewalk Condition: Trees and Sidewalks Program,60819,1370,0.561,0.561
+Sanitation Condition: 15 Street Cond/Dump-Out/Drop-Off,154064,1385,0.56,0.56
+Vending: Unlicensed,15033,1317,0.556,0.556
+Noise - Street/Sidewalk: Loud Music/Party,192111,1380,0.556,0.556
+Noise - Residential: Banging/Pounding,353990,1385,-0.556,-0.556
+Water System: Hydrant Running Full (WA4),76596,1329,0.552,0.552
+Dirty Conditions: E3 Dirty Sidewalk,69624,1384,0.53,0.53
+Water System: Hydrant Running (WC3),66399,1365,0.52,0.52
+PLUMBING: STEAM PIPE/RISER,5427,857,-0.517,-0.517
+Noise - Park: Loud Music/Party,19787,1111,0.515,0.515
+Water System: Fire Hydrant Emergency (FHE),46015,79,0.515,0.515
+HEATING: HEAT-PLANT,7563,928,-0.509,-0.509
+Vending: In Prohibited Area,17724,1324,0.507,0.507
+Water System: Hydrant Locking Device Request (Use Comments) (WC5),6753,773,0.506,0.506
+Homeless Person Assistance: N/A,66556,541,0.502,0.502
+Noise - Park: Loud Talking,7158,1065,0.501,0.501
