@@ -1,6 +1,6 @@
 ## Weekly challenge 5
 
-Latest Submission Grade: 84.37%
+Latest Submission Grade: 100%
 
 &nbsp;
 
@@ -50,7 +50,7 @@ Fill in the blank: A business task is described as the problem or _____ a data a
 * **question**
 * complaint 
 
-A business task is described as the problem or question a data analyst answers for a business.
+> A business task is described as the problem or question a data analyst answers for a business.
 
 &nbsp;
 

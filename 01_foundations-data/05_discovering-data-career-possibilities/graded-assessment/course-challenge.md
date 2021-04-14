@@ -1,6 +1,6 @@
 ## Course challenge
 
-Latest Submission Grade: 90%
+Latest Submission Grade: 100%
 
 &nbsp;
 
@@ -181,7 +181,9 @@ The subject-matter experts are impressed by your analysis. The team agrees to mo
 
 It’s time to create your presentation to stakeholders. It will include a data visualization that demonstrates the trend of people being less likely to attend follow-up appointments as they get older. **Which type of chart will be most effective?**
 
-* **A doughnut chart** [INCORRECT]
+* A doughnut chart
 * A table
 * A pie chart
-* A line chart
+* **A line chart**
+
+> A line chart is effective for tracking trends over time, such as people attending fewer follow-up appointments as they get older.
