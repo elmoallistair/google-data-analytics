@@ -1,4 +1,5 @@
 ### Weekly challenge 3
+
 Latest Submission Grade: 100%
 
 &nbsp;
@@ -23,7 +24,7 @@ A data analyst has finished an analysis project that involved private company da
 * Plan
 * Archive
 
-This describes the destroy phase, during which data analysts use secure data-erasure software and shred paper files to protect private information.
+> This describes the destroy phase, during which data analysts use secure data-erasure software and shred paper files to protect private information.
 
 &nbsp;
 

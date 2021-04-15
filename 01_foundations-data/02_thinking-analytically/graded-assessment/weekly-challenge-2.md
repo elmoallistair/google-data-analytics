@@ -1,4 +1,5 @@
 ## Weekly challenge 2
+
 Latest Submission Grade: 90%
 
 &nbsp;
@@ -122,5 +123,7 @@ What method involves examining and evaluating how a process works currently in o
 
 Data-driven decision-making involves the five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. Each plays a role in data-driven decision-making.
 
-* True
-* **False** [INCORRECT]
+* **True**
+* False
+
+> Data-driven decision-making involves curiosity, understanding context, having a technical mindset, data design, and data strategy.

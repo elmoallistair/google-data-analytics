@@ -1,6 +1,6 @@
 ## Weekly challenge 4
 
-Latest Submission Grade: 88.88%
+Latest Submission Grade: 100%
 
 &nbsp;
 
@@ -105,7 +105,7 @@ A data analyst types =POPULATION(C2:C11) to find the average population of the c
 =AVERAGE(C2:C11)
 ```
 
-The correct AVERAGE function syntax is =AVERAGE(C2:C11). AVERAGE returns an average of values from a selected range. C2:C11 is the specified range.
+> The correct AVERAGE function syntax is =AVERAGE(C2:C11). AVERAGE returns an average of values from a selected range. C2:C11 is the specified range.
 
 &nbsp;
 
