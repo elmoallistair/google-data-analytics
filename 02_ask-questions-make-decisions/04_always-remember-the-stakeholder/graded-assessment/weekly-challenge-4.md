@@ -1,6 +1,6 @@
 ## Weekly challenge 4
 
-Latest Submission Grade: 87.5%
+Latest Submission Grade: 100%
 
 &nbsp;
 
@@ -10,8 +10,10 @@ A data analytics team is working on a project to measure the success of a compan
 
 * project manager
 * analyst
-* **secondary stakeholder** [INCORRECT]
-* primary stakeholder
+* secondary stakeholder
+* **primary stakeholder**
+
+> The vice president of finance is most likely to be the primary stakeholder.
 
 &nbsp;
 
