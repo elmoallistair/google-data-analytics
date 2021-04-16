@@ -1,6 +1,6 @@
 ## Weekly challenge 2
 
-Latest Submission Grade: 90%
+Latest Submission Grade: 100%
 
 &nbsp;
 
