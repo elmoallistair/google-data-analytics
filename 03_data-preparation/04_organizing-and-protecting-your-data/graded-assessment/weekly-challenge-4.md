@@ -85,7 +85,7 @@ Fill in the blank: Data analysts create _____ to structure their folders.
 A data analyst wants to ensure only people on their analytics team can access, edit, and download a spreadsheet. They can use which of the following tools? Select all that apply.
 
 * **Sharing permissions**
-* Encryption
+* **Encryption**
 * Templates
 * Filtering
 

@@ -85,9 +85,10 @@ The next thing you review is the file containing pictures of sandwich deliveries
 
 Now that you’re familiar with the data, you want to build trust with the team at Garden. 
 
-* **What actions should you take when working with their data? Select all that apply.**
+**What actions should you take when working with their data? Select all that apply.**
+
 * **Keep the data safe by implementing data-security measures, such as password protection and user permissions.**
-**Organize the data using effective naming conventions.**
+* **Organize the data using effective naming conventions.**
 * Share the client’s data with other delivery restaurants to compare performance.
 * Post on social media that you’re working with Garden and would like feedback from any of your contacts who have ordered there before. 
 
@@ -160,12 +161,12 @@ Our analysts often work with the same spreadsheet, but for different purposes. H
 
 Next, your interviewer wants to better understand your knowledge of basic SQL commands. **He asks: How would you write a query that retrieves only data about people with the last name Hassan from the Clients table in our database?**
 
-* SELECT DATA FROM Clients WHERE 'Hassan' is typed in
-* SELECT Clients WHERE Last_Name= 'Hassan' FROM * is typed in
-* **SELECT * FROM Clients WHERE Last_Name= 'Hassan' is typed in**
-* SELECT All WHERE Last_Name 'Hassan' FROM Clients is typed in
+* SELECT DATA FROM Clients WHERE 'Hassan'
+* SELECT Clients WHERE Last_Name= 'Hassan' FROM *
+* **SELECT * FROM Clients WHERE Last_Name= 'Hassan'**
+* SELECT All WHERE Last_Name 'Hassan' FROM Clients
 
-> To write a query that retrieves only data about people with the last name Hassan from the Clients table, type SELECT * FROM Clients WHERE Last_Name=’Hassan’. 
+> To write a query that retrieves only data about people with the last name Hassan from the Clients table, type SELECT * FROM Clients WHERE Last_Name='Hassan'. 
 
 &nbsp;
 
