@@ -76,7 +76,7 @@ A data analyst uses a function to sort a spreadsheet range between cells H1 and 
 * =SORT(H1:K65, A, TRUE)
 * =SORT(H1:K65, 1, FALSE)
 
-> The syntax is =SORT(H1:K65, 1, TRUE). The first part of the function sorts the data in the specified range. The 1 represents the first column. And a TRUE statement sorts in ascending order.
+> The syntax is `=SORT(H1:K65, 1, TRUE)`. The first part of the function sorts the data in the specified range. The 1 represents the first column. And a TRUE statement sorts in ascending order.
 
 &nbsp;
 
@@ -84,12 +84,12 @@ A data analyst uses a function to sort a spreadsheet range between cells H1 and 
 
 A data analyst is querying a database that contains data about dental equipment inventory. They are only interested in data related to cleaning products. Which of the following sections of an SQL statement would return the correct result?
 
-* WHERE “Cleaning”
-* **WHERE product = “Cleaning”**
-* ORDER BY “Cleaning”
-* ORDER BY product = “Cleaning”
+* WHERE "Cleaning"
+* **WHERE product = "Cleaning"**
+* ORDER BY "Cleaning"
+* ORDER BY product = "Cleaning"
 
-> The correct section is WHERE Product = “Cleaning”. A WHERE statement in SQL includes the name of the column, an equals sign, and the value(s) in the column to include.
+> The correct section is `WHERE Product = "Cleaning"`. A WHERE statement in SQL includes the name of the column, an equals sign, and the value(s) in the column to include.
 
 &nbsp;
 
@@ -101,7 +101,7 @@ A data analyst would write the following section of a SQL query to sort Golden R
 WHERE Breed = "Golden Retriever" ORDER BY Birth_date
 ```
 
-**True**
-False
+* **True**
+* False
 
 > The query will return Golden Retrievers, ordered by birth date, in ascending order. 

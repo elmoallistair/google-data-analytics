@@ -19,8 +19,6 @@ Fill in the blank: Data aggregation involves creating a _____ collection of data
 
 ### Question 2
 
-Question 2
-
 A data analyst uses the SUM function to add together numbers from a spreadsheet. However, after getting a zero result, they realize the numbers are actually text. What function can they use to convert the text to a numeric value?
 
 * FIGURE

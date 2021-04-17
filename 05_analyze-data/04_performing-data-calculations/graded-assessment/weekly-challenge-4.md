@@ -19,7 +19,9 @@ You are analyzing sales data in a spreadsheet. Which of the following could you 
 
 ### Question 2
 
-A data analyst is working with a spreadsheet from a furniture company. Click the link to create a copy of the spreadsheet: [Sample Transaction Table](files/Sample-Transaction-Table---transactional-data-format-csv.csv).
+A data analyst is working with a spreadsheet from a furniture company. 
+
+[Sample Transaction Table](files/Sample-Transaction-Table---transactional-data-format-csv.csv).
 
 The analyst inputs a function to find the number of product prices that are less than $150.00. Which formula will return that result?
 
@@ -36,7 +38,7 @@ The analyst inputs a function to find the number of product prices that are less
 
 A data analyst is working in a spreadsheet and uses the SUMIF function in the formula below as part of their analysis. 
 
-=SUMIF(A1:A25, "<10", C1:C25)
+`=SUMIF(A1:A25, "<10", C1:C25)`
 
 Which part of this formula is the criteria or condition? 
 
@@ -70,7 +72,7 @@ How does the SUMPRODUCT function calculate the cell ranges identified in the par
 
 A data analyst creates a pivot table in a spreadsheet containing movie data. 
 
-You may click the link to create a copy of the dataset: [Movie Data Project]((files/Movie-Data-Starter-Project.xlsx)).
+[Movie Data Project]((files/Movie-Data-Starter-Project.xlsx)).
 
 If the analyst wants to summarize the data using the AVERAGE function in the Values menu, which spreadsheet columns could they add data from? Select all that apply.
 
@@ -108,7 +110,7 @@ FROM
 
 ### Question 7
 
-A data analyst uses the following query to perform a calculation on a company’s inventory. Which of the following will be the return in the "Overstock" column for this query?
+A data analyst uses the following query to perform a calculation on a company's inventory. Which of the following will be the return in the "Overstock" column for this query?
 
 ```
 SELECT
@@ -139,10 +141,10 @@ WHERE
     salary < 30000
 ```
 
-The number of all salaries in the "employees" table
-A single average of all of the salaries less than $30,000
-A single count of salaries that average less than $30,000
-The annual salary for each employee 
+* The number of all salaries in the "employees" table
+* **A single average of all of the salaries less than $30,000**
+* A single count of salaries that average less than $30,000
+* The annual salary for each employee 
 
 > The return for this query would be a single average of all of the salaries less than $30,000. The AVG function is an aggregate function that returns the average value of a group. In this query, the group is "salary" and the condition is salaries less than $30,000.
 
@@ -162,10 +164,10 @@ FROM
 
 Which statement should you add after the FROM statement to organize rows by location?
 
-* `EXTRACT location`
-* `WHERE location`
-* `AS location`
-* **`GROUP BY location`**
+* EXTRACT location
+* WHERE location
+* AS location
+* **GROUP BY location**
 
 > You should add the GROUP BY statement to organize rows by location. In this query, GROUP BY groups rows from the Bulk_orders table with the same location value into summary rows.
 

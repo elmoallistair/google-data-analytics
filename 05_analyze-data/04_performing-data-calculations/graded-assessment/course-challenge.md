@@ -6,17 +6,13 @@ Latest Submission Grade: 100%
 
 ### Scenario 1, Questions 1-7
 
-
-
 For the past six months, you have been working for a direct-mail marketing firm as a junior marketing analyst. Direct mail is advertising material sent to people through the mail. These people can be current or prospective customers, clients, or donors. Many charities depend on direct mail for financial support.
 
 Your company, Directly Dynamic, creates direct-mail pieces with its in-house staff of graphic designers, expert mail list services, and on-site printing. Your team has just been hired by a local nonprofit, Food Justice Rock Springs. The mission of Food Justice Rock Springs is to eliminate food deserts by establishing local gardens, providing mobile pantries, educating residents, and more. Click below to read the email from Tayen Bell, vice president of marketing and outreach.
 
 [C5 Course Challenge, Email From Tayen Bell, Directly Dynamic.pdf](files/C5-Course-Challenge-Email-From-Tayen-Bell-Directly-Dynamic-.pdf)
 
-You begin by reviewing the dataset. 
-
-You may click the link to create a copy of the dataset: [Dynamic Dataset](files/Dynamic-Dataset.xlsx).
+You begin by reviewing the dataset: [Dynamic Dataset](files/Dynamic-Dataset.xlsx).
 
 The client has asked you to send two separate mailings: one to people within 50 miles of Rock Springs; the other to anyone outside that area. So, to research each donor’s distance from the city, you first need to find out where all of these people live.
 
@@ -86,14 +82,14 @@ Then, you import these datasets into your company’s mailing list database. In 
 
 Your company’s mailing list software requires units to be on the same line as street addresses. However, they are currently in two separate columns (street_address and unit). 
 
-**What portion of your SQL statement will instruct the database to combine these two columns into a new column called “address”?**
+**What portion of your SQL statement will instruct the database to combine these two columns into a new column called "address"?**
 
 * JOIN(street_address to unit) AS address
 * JOIN(street_address, " to ", unit) AS address
 * CONCAT(street_address to unit) AS address
 * **CONCAT(street_address, " to ", unit) as address**
 
-> The portion of your SQL statement used to instruct the database to combine these two columns into a new column called “address” is CONCAT(street_address, " to ", unit) AS address.
+> The portion of your SQL statement used to instruct the database to combine these two columns into a new column called "address" is CONCAT(street_address, " to ", unit) AS address.
 
 &nbsp;
 
@@ -120,10 +116,16 @@ You finish cleaning your datasets, so you decide to review Tayen’s email one m
 
 **To retrieve only those records that include people who have served on the board of trustees or on the board of directors, you use the WHERE function. The syntax is:**
 
+```
+SELECT *
+FROM Donation_From_List
+WHERE Board_Member = "TRUE" AND Trustee = "TRUE"
+```
+
 * True
 * **False**
 
-> To retrieve only those records that include people who have served on the board of trustees or on the board of directors, the syntax must include “OR.” Including “AND” will only retrieve records of people who served on both boards. The syntax is: 
+> To retrieve only those records that include people who have served on the board of trustees or on the board of directors, the syntax must include "OR." Including "AND" will only retrieve records of people who served on both boards. The syntax is: `SELECT * FROM Donation_From_List WHERE Board_Member = "TRUE" AND Trustee = "TRUE"`
 
 &nbsp;
 
@@ -153,10 +155,10 @@ Your next task is to identify the average contribution given by donors over the 
 
 **You start with 2019. To return average contributions in 2019 (contributions_2019), you use the AVG function. What portion of your SQL statement will instruct the database to find this average and store it in the AvgLineTotal variable?**
 
-* `AVG (“contributions_2019”) IN AvgLineTotal`
-* `AVG (“contributions_2019”) AS AvgLineTotal`
-* **`AVG (contributions_2019) AS AvgLineTotal`**
-* `AVG (contributions_2019) = “AvgLineTotal”`
+* AVG ("contributions_2019") IN AvgLineTotal
+* AVG ("contributions_2019") AS AvgLineTotal
+* **AVG (contributions_2019) AS AvgLineTotal**
+* AVG (contributions_2019) = "AvgLineTotal"
 
 > To return average contributions in 2019, the correct portion of the SQL query is: `AVG (contributions_2019) AS AvgLineTotal`
 
@@ -168,7 +170,7 @@ Now that you provided her with the average donation amount, Tayen decides to inv
 
 **What is the correct syntax to add the contribution amounts in cells O2 and P2?**
 
-* =SUM(“O2,P2”)
+* =SUM("O2,P2")
 * =SUM(O2*P2)
 * =SUM(O2/P2)
 * **=SUM(O2,P2)**
@@ -214,7 +216,9 @@ Your team creates a highly effective prospects list for Food Justice Rock Spring
 **What clause do you add to the following query to sort the donors in each city from high to low?**
 
 ```
-SELECT COUNT (DonorID), City FROM new_donor_list GROUP BY City
+SELECT COUNT (DonorID), City 
+FROM new_donor_list 
+GROUP BY City
 ```
 
 * ORDER BY CITY(DonorID) ASC
