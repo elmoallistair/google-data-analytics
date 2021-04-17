@@ -105,7 +105,7 @@ Fill in the blank: The _____ function can be used to return non-null values in a
 
 * CONCAT
 * TRIM 
-* COALESCE
-* **CAST**
+* **COALESCE**
+* CAST
 
 > The COALESCE function can be used to return non-null values in a list.
