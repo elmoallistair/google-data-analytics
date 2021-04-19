@@ -1,6 +1,6 @@
 ## Weekly challenge 5
 
-Latest Submission Grade: 87.5%
+Latest Submission Grade: 100%
 
 &nbsp;
 

@@ -1,6 +1,6 @@
 ## Course challenge
 
-Latest Submission Grade: 84.61%
+Latest Submission Grade: 100%
 
 &nbsp;
 
@@ -79,10 +79,14 @@ Next, you begin to clean your data. When you check out the column headings in yo
 
 **What code chunk do you add to change the column name?**
 
-* `rename(Maker = Company...Maker.if.known.)`
-* **`rename(Company...Maker.if.known. = Maker)`** [INCORRECT]
-* `rename(Maker %<% Company...Maker.if.known.)`
-* `rename(Company...Maker.if.known %<% Maker)`
+* **`select(Rating, Cocoa.Percent, Company.Location)`**
+* `filter(Rating & Cocoa.Percent & Company.Location)`
+* `arrange(Rating + Cocoa.Percent + Company.Location)`
+* `summarize(Rating, Cocoa.Percent,  Company.Location)`
+
+> You write the code chunk `select(Rating, Cocoa.Percent, Company.Location)`. In this code chunk:
+> * `select()` is the function that lets you select specific variables for your new data frame. 
+> * `select()` takes the names of the variables you want to choose as its argument: Rating, Cocoa.Percent, Company.Location.
 
 &nbsp;
 
@@ -195,8 +199,13 @@ ggplot(data = best_trimmed_flavors_df) +
 
 * `geom_bar(mapping = aes(x = Company.Location, alpha = Rating))`
 * `geom_bar(mapping = aes(x = Company.Location, color = Rating))`
-* **`geom_bar(mapping = aes(x = Company.Location, fill = Rating)`** [INCORRECT]
-* `geom_bar(mapping = aes(x = Company.Location, size = Rating)`
+* `geom_bar(mapping = aes(x = Company.Location, fill = Rating)`
+* **`geom_bar(mapping = aes(x = Company.Location, size = Rating)`**
+
+> You change the second line of code to `geom_bar(mapping = aes(x = Company.Location, color = Rating))` to outline each bar with a different color. In this code chunk: 
+> * Inside the parentheses of the aes() function, add a comma after x = Company.Location to add a new aesthetic attribute, then write color = Rating to map the aesthetic color to the variable Rating.  
+> * The specific rating of each location will appear as a specific color that outlines each bar of your bar chart.
+
 
 &nbsp;
 
