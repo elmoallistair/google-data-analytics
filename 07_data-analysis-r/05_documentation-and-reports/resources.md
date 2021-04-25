@@ -1,0 +1,9 @@
+## Resources
+
+&nbsp;
+
+* [Project Jupyter](https://jupyter.org/): This is the home of Jupyter notebooks, as well as JupyterLab – the web-based interactive development environment for Jupyter notebooks, code, and data. 
+* [Jupyter Notebook: An Introduction](https://realpython.com/jupyter-notebook-introduction/): This detailed introduction of Jupyter notebooks comes from the people at Real Python, a tutorial-based site devoted to all things Python. You can take a video course or follow the written tutorial to get started with Jupyter notebooks and learn about its features and capabilities.
+* [The Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html): This resource provides an overview of Jupyter notebooks, including information about the structure of the user interface and notebook document. You’ll also learn about the basic workflow for using a notebook document, along with information about keyboard shortcuts and other features that will help you format your work.
+* [Using Jupyter Notebook for Writing](https://gtribello.github.io/mathNET/assets/notebook-writing.html): This resource focuses on how to use Markdown to format your writing in a Jupyter notebook. Use this as a guide to manage the syntax of your writing, including making titles and subtitles and adding links.
+* [The Jupyter Notebook Formatting Guide](https://medium.com/analytics-vidhya/the-jupyter-notebook-formatting-guide-873ab39f765e): This resource includes a wide variety of formatting options for Jupyter notebooks. You’ll learn about the basics as well as some more advanced options, like embedding PDF documents and videos. 
