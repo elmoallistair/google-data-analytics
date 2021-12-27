@@ -45,7 +45,7 @@ Describe the difference between data and metrics.
 
 Return on Investment (ROI) uses which of the following metrics in its definition?
 
-* Profit and investment
+* **Profit and investment**
 * Supply and demand
 * Sales and margin
 * Inventory and units
