@@ -36,3 +36,11 @@ Gap analysis is used to examine and evaluate how a process currently works with 
 * False
 
 > Gap analysis is used to examine and evaluate how a process currently works with the goal of getting to where you want to be in the future.
+
+### Question 4
+Which aspect of analytical thinking involves being able to identify a relationship between two or more pieces of data?
+
+* Context
+* Visualization
+* **Correlation**
+* Data design
