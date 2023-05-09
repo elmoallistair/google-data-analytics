@@ -137,3 +137,153 @@ WRONG Hidden settings
 
 Incorrect
 Please review the video on spreadsheet security.
+
+#######################################################################################################################
+#######################################################################################################################
+#######################################################################################################################
+
+
+Question 1
+What best practice for organizing data can an analyst use to structure their project files in a way that describes content, date, or version of a file in its name?
+
+1 / 1 point
+
+File-naming verifications
+
+
+[x] File-naming conventions
+
+
+File-naming references
+
+
+File-naming attributes
+
+Correct
+2.
+Question 2
+A data analyst team is reviewing an old project and needs to understand how the files naming conventions are structured. Where should the team locate this information?
+
+1 / 1 point
+
+In the aggregated data
+
+
+In the folder hierarchies
+
+
+In SQL
+
+
+[x] In the metadata
+
+Correct
+3.
+Question 3
+Data analysts use naming conventions to help them identify or locate a file. Which of the following is an example of an effective file name?
+
+1 / 1 point
+
+Sept_ElemtaryStudents_V1
+
+
+[x] Elementary_Students_092021_V01
+
+
+Elem_9
+
+
+ElementarySchoolStudents_EnrollingSeptember2021_PlusRisingMiddleSchool_FJPSKVND
+
+Correct
+4.
+Question 4
+As a data analyst, you will have multiple files for any given project. What is the process called to organize these files in a useful manner?
+
+1 / 1 point
+
+Naming convention
+
+
+[x] Foldering
+
+
+Decluttering 
+
+
+Project structure
+
+Correct
+5.
+Question 5
+You have recently completed a project describing annual sales across the various branches of your company. As the project has been completed you do not have use for these files anymore. What should you do with the project files?
+
+1 / 1 point
+
+Copy them to a USB drive
+
+
+Delete them
+
+
+[x] Archive them
+
+
+Leave them where they are
+
+Correct
+6.
+Question 6
+Data analysts create hierarchies to organize their folders. They do this by structuring folders by specific topics at the top folder level, then more broad topics in lower level subfolders.
+
+0 / 1 point
+
+[x] True
+
+
+False
+
+
+Please review the reading on organization guidelines. https://www.coursera.org/learn/data-preparation/supplement/fLKJI/organization-guidelines
+
+7.
+Question 7
+As the owner of a spreadsheet, you give access to various coworkers allowing them to view your spreadsheet but they cannot complete any other tasks. What data practice does this describe? 
+
+0 / 1 point
+
+Data perseverance
+
+
+Data lockdown
+
+
+[x] Data security
+
+
+Data Integrity
+
+
+Please review the reading on protecting data. https://www.coursera.org/learn/data-preparation/supplement/CmRzN/balancing-security-and-analytics
+
+8.
+Question 8
+A data analyst creates a spreadsheet with five tabs. They want to share the data in tabs 1-4 with a client. Tab 5 contains private information about other clients. Which of the following tactics will enable them to keep tab 5 private? Select all that apply.
+
+1 / 1 point
+
+Rename tab 5 to include the word “private” then share the spreadsheet with the client.
+
+
+Hide tab 5, then share the spreadsheet with the client.
+
+
+[x] Make a copy of the spreadsheet, delete tab 5, then share the new file with the client.
+
+Correct
+
+[x] Copy tabs 1-4 into a separate spreadsheet, then share the new file with the client.
+
+Correct
+
+
