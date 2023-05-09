@@ -1,0 +1,139 @@
+A data analyst has been tasked with a new project and has started to collect data from multiple sources. The analyst will be working with multiple team members on this project and needs to create a naming convention to allow projects files to be located efficiently. What should the analyst include in each file's name? Select all that apply. 
+
+1 / 1 point
+
+[x] Creation date
+
+[x] Version number
+
+Collaborators
+
+
+[x] Content
+
+Question 2
+What is metadata used to describe? 
+
+1 / 1 point
+
+The project manager of the project
+
+
+The name of the analyst who completed the project
+
+
+The company name 
+
+
+[x] The data
+
+Correct
+3.
+Question 3
+A data analyst is working with a file from a customer satisfaction survey. The survey was sent to anyone who became a new customer between April and June, 2020. Which of the following are effective names for the file?
+
+1 / 1 point
+
+Survey_Responses
+
+
+Apr2020_CustSurvey_V
+
+
+[x] NewCustomerSurvey_2020-6-20_V03
+
+
+April_May_June_2020_Responses_to_New_Customer_Survey_ANALYSISDATA_928310
+
+Correct
+4.
+Question 4
+What process do data analysts use to keep project-related files together and organize them into subfolders?
+
+1 / 1 point
+
+Naming
+
+
+Editing
+
+
+Encrypting
+
+
+[x] Foldering 
+
+Correct
+5.
+Question 5
+A data analyst completes a project. They move project files to another location to keep them separate from their current work. This is an example of what process?
+
+1 / 1 point
+
+Renaming files
+
+
+Destroying files
+
+
+[x] Archiving files
+
+
+Duplicating files
+
+Correct
+6.
+Question 6
+An analyst team is organizing their project files in a hierarchical fashion. They decide to implement best practices. How do they structure their folders?
+
+1 / 1 point
+
+Broad topics at the left, then more specific topics at the right
+
+
+Broad topics at the right, then more specific topics at the left
+
+
+Specific topics in the main folder, then more broad topics in the subfolders 
+
+
+[x] Broad topics at the top, then more specific topics below
+
+Correct
+7.
+Question 7
+A data analyst is working on a spreadsheet. The analyst decides to send out the spreadsheet with restrictions so that users cannot manipulate the data. What data practice does this describe? 
+
+1 / 1 point
+
+Data preservation
+
+
+[x] Data Security
+
+
+Data hygiene
+
+
+Data cleanliness
+
+Correct
+8.
+Question 8
+Your manager shares a spreadsheet with you that contains the company's customer data. You notice that you cannot modify the spreadsheet or view any hidden cells. What settings should you ask your manager to modify so you can complete your work? 
+
+0 / 1 point
+
+Modification security 
+
+
+[x] Data security PROBABLY RIGHT
+
+
+Server settings
+
+
+WRONG Hidden settings
+
+Incorrect
+Please review the video on spreadsheet security.
