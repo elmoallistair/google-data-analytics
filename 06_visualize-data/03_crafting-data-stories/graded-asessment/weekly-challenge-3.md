@@ -116,3 +116,173 @@ You are creating a slideshow for a client presentation. There is a pivot table i
 * Copy and paste the pivot table
 
 > In order for the pivot table to update whenever the spreadsheet source file changes, you should link or embed it into the slideshow. This keeps the two files connected, so changes to the spreadsheet will automatically appear in your slideshow. 
+
+
+
+
+#############################################################
+#############################################################
+#############################################################
+v2
+
+#############################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fill in the blank: A data-storytelling narrative draws a connection between the data and the specific _____ of the project.
+
+1 / 1 point
+
+tasks
+
+
+- [x] objectives 
+
+
+managers
+
+
+stakeholders
+
+Correct
+2.
+Question 2
+An analyst quickly scans the data to identify the important insights. What is this known as?
+
+1 / 1 point
+
+Engagement
+
+
+- [x] Spotlighting
+
+
+Narrative
+
+
+Setting
+
+Correct
+3.
+Question 3
+An analyst is designing a dashboard. In order for it to be effective, they make sure that the charts, graphs, and other visual elements make good use of the available space. What else should they do to make the dashboard design cohesive?
+
+1 / 1 point
+
+Put in lots of detail
+
+
+Fill it with color
+
+
+Ensure dashboard is complete
+
+
+- [x] Ensure the dashboard is balanced
+
+Correct
+4.
+Question 4
+You are building a dashboard in Tableau. To create a single-layer grid that contains no overlapping elements, which layout should you choose?
+
+1 / 1 point
+
+Layered
+
+
+Floating
+
+
+Itemized
+
+
+- [x] Tiled 
+
+Correct
+5.
+Question 5
+A data analyst creates a scatterplot in Tableau. They highlight various points and limit the number of rows and columns in the view. What tools are they using to do this?
+
+1 / 1 point
+
+Functions
+
+
+Commands
+
+
+Labels
+
+
+- [x] Filters
+
+Correct
+6.
+Question 6
+You are sharing your Tableau dashboard with stakeholders. What process can you implement so the stakeholders do not need to filter the dashboard themselves?
+
+1 / 1 point
+
+Pre-sorting
+
+
+Pre-sizing
+
+
+- [x] Pre-filtering
+
+
+Pre-building
+
+Correct
+7.
+Question 7
+An analyst creates a presentation for stakeholders. In order to communicate effectively, they choose their language carefully. What best practices for effective communication should they consider? Select all that apply.
+
+0.75 / 1 point
+
+- [x] Define all abbreviations
+
+Correct
+
+Use non-technical language only
+
+This should not be selected
+Review the video on sharing your narrative.
+
+
+- [x] Avoid slang terms and idioms
+
+Correct
+
+Address specific audience members
+
+8.
+Question 8
+A data analyst links their visualizations to external spreadsheets containing the data being described. What is the purpose for doing this?
+
+1 / 1 point
+
+It allows the visualization to be edited without the spreadsheet data being affected.
+
+
+It allows changes made to the spreadsheet data that will not change the visualizations.
+
+
+It allows for the creation of multiple visualizations using the same dataset.
+
+
+- [x] It allows changes made to the spreadsheet data to automatically reflect in the visualizations.
+
+Correct
