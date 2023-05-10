@@ -105,3 +105,164 @@ Fill in the blank: In Tableau, a _____ palette displays two ranges of values. It
 * contrasting
 
 > In Tableau, a diverging palette displays two ranges of values. It uses a color to show the range where a data point is from and color intensity to show its magnitude. 
+
+
+
+
+
+##################################################################################
+##################################################################################
+##################################################################################
+v2
+##################################################################################
+
+
+
+
+
+
+
+
+
+Tableau is used to create interactive and dynamic visualizations. A visualization is interactive when the audience can control what data they see. What does it mean for a visualization to be dynamic? 
+
+1 / 1 point
+
+The visualization can include audio
+
+
+[x] The visualization can change over time. 
+
+
+The visualization can be downloaded
+
+
+The visualization cannot be altered
+
+Correct
+2.
+Question 2
+A data analyst uses the Color tool in Tableau to apply a color scheme to a data visualization. In order to make the visualization accessible for people with color vision deficiencies, what should they do next?
+
+1 / 1 point
+
+[x] Make sure the color scheme has contrast
+
+
+Make sure the color scheme is stylish
+
+
+Make sure the color scheme uses only one color, in various shades
+
+
+Make sure the color scheme is uniform
+
+Correct
+3.
+Question 3
+Fill in the blank: In Tableau, the _____ tool can be used to select data points.
+
+1 / 1 point
+
+[x] lasso 
+
+
+radial 
+
+
+pan 
+
+
+rectangular 
+
+Correct
+4.
+Question 4
+What tool in Tableau allows you to rotate your perspective while keeping a certain object in view?
+
+1 / 1 point
+
+Lasso 
+
+
+Radial 
+
+
+Rectangular 
+
+
+[x] Pan 
+
+Correct
+5.
+Question 5
+You are working with the World Happiness data in Tableau. To display the population of each country on the map, which Marks shelf tool do you use? 
+
+1 / 1 point
+
+Tooltip
+
+
+[x] Label 
+
+
+Detail
+
+
+Size
+
+Correct
+6.
+Question 6
+A data analyst working with the World Happiness data in Tableau is only interested in those countries that have a happiness score of less than 3.5. What tool can they use to only show these countries?
+
+1 / 1 point
+
+Format
+
+
+[x] Filter
+
+
+Attribute
+
+
+Dimension
+
+Correct
+7.
+Question 7
+Fill in the blank: In Tableau public, the _____ icon will hide your visualization from other users.
+
+1 / 1 point
+
+[x] eye
+
+
+close
+
+
+private
+
+
+source
+
+Correct
+8.
+Question 8
+A data analyst creates a visualization in Tableau showing their company’s quarterly sales data. They color all the items that have made a profit green and those in which they have a loss red. In addition, they intensify the color based on the magnitude of the profit or loss. What tool are they using?
+
+1 / 1 point
+
+Color attribute
+
+
+Conditional formatting
+
+
+Value overlay
+
+
+[x] Diverging palette
+
+Correct
