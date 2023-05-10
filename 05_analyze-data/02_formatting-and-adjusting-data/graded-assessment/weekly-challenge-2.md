@@ -109,3 +109,156 @@ Fill in the blank: When working with a database, data analysts can use the _____
 * FROM
 
 > When working with a database, data analysts can use the FIND function to locate specific characters in a string.
+
+
+############################################################################################
+############################################################################################
+############################################################################################
+############################################################################################
+v2
+
+############################################################################################
+
+An analyst has financial data that is formatted as Euros, but it should be formatted as Pesos. What spreadsheet tool can help them select the right format?
+
+1 / 1 point
+
+Format as Peso
+
+
+Format as Money
+
+
+[x] Format as Currency
+
+
+Format as Euros
+
+Correct
+2.
+Question 2
+A data analyst allows their colleagues access to their data spreadsheet. In order to protect the structured data and formulas from accidental changes, what spreadsheet tool can the data analyst use?
+
+0 / 1 point
+
+Conditional formatting
+
+
+Find
+
+
+Pop-up menus
+
+
+[x] Data validation PROBABLY THIS
+
+Incorrect
+Please review the video on spreadsheet features for formatting data.
+
+3.
+Question 3
+A data analyst at a symphony orchestra uses a spreadsheet to keep track of how many concerts require more than 80 musicians. They use a spreadsheet tool to change how cells appear when values equal 80 or more. What tool are they using?
+
+1 / 1 point
+
+[x] Conditional formatting
+
+
+Add color
+
+
+Data validation
+
+
+CONVERT 
+
+Correct
+4.
+Question 4
+You are analyzing employee data for your company. In your SQL database, you have one column with the first names of the employees and another column with their last names. What function can you use in your query to combine the employee first names and last names into a new column?
+
+1 / 1 point
+
+[x] CONCAT
+
+
+JOIN
+
+
+GROUP
+
+
+COMBINE
+
+Correct
+5.
+Question 5
+You are querying a database of museums to determine which ones will have a sculpture exhibit this year. For your project, you only need the first 50 records. What clause should you add to the following SQL query?
+
+SELECT museums
+FROM museum_table
+WHERE exhibit = “sculpture”
+
+1 / 1 point
+
+LIMIT = 50
+
+
+[x] LIMIT 50
+
+
+LIMIT_50
+
+
+LIMIT,50
+
+Correct
+6.
+Question 6
+Fill in the blank: A data analyst is working with a spreadsheet that has very long text strings. They use the LEN function to count the number of _____ in the text strings.
+
+1 / 1 point
+
+fields
+
+
+substrings
+
+
+[x] characters
+
+
+values
+
+Correct
+7.
+Question 7
+Spreadsheet cell C2 contains the text string “Deviation”. To return the substring “dev”, what is the correct syntax?
+
+1 / 1 point
+
+[x] =LEFT(C2, 3)
+
+
+=RIGHT(C2, 3)
+
+
+=LEFT(3,C2)
+
+
+=RIGHT(3,C2)
+
+Correct
+8.
+Question 8
+When working with spreadsheets, data analysts can use the WHERE function to locate specific characters in a string.
+
+0 / 1 point
+
+True
+
+
+[x] False 
+
+Please review the video on strings in spreadsheets.
+
