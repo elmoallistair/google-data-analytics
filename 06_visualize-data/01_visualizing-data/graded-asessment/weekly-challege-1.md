@@ -105,3 +105,156 @@ Distinguishing elements of your data visualizations makes the content easier to 
 * Use contrasting colors and shapes 
 
 > Data analysts distinguish elements of data visualizations by separating the foreground and background and using contrasting colors and shapes.
+
+
+
+
+
+
+
+######################################################################
+######################################################################
+######################################################################
+v2
+######################################################################
+
+
+
+
+
+
+
+
+A data analyst working for an e-commerce website creates the following data visualization to present the amount of time users spend on the site: 
+
+A chart with vertical bars representing the amount of time users spend on the site.
+What type of visualization is this?
+
+1 / 1 point
+
+Line graph
+
+
+Scatterplot
+
+
+Correlation chart
+
+
+[x] Histogram
+
+Correct
+2.
+Question 2
+How much data should you represent when designing an effective data visualization?
+
+0 / 1 point
+
+Include all of the data from your analysis to ensure that your data visualization is complete and accurate 
+
+SHOULD BE THIS
+[x] Only represent data the audience needs to understand your findings, unless it is misleading
+
+
+Include a subset of the data that your audience will like
+
+
+Only represent data that supports your initial hypothesis
+
+
+Review the video on powerful data visualizations.
+
+3.
+Question 3
+You are creating a presentation for stakeholders and are choosing whether to include static or dynamic visualizations. Describe the difference between static and dynamic visualizations.
+
+1 / 1 point
+
+Static visualizations combine multiple visualizations into a whole. Dynamic visualizations separate out the individual elements of a single visualization.
+
+
+[x] Static visualizations do not change over time unless they’re edited. Dynamic visualizations are interactive and can automatically change over time.
+
+
+Static visualizations separate out the individual elements of a single visualization. Dynamic visualizations combine multiple visualizations into a whole.
+
+
+Static visualizations are interactive and can automatically change over time. Dynamic visualizations do not change over time unless they’re edited.
+
+Correct
+4.
+Question 4
+Sophisticated use of contrast helps separate the most important data from the rest using the visual context that our brains naturally respond to. 
+
+1 / 1 point
+
+[x] True
+
+
+False
+
+Correct
+5.
+Question 5
+Design thinking is a process used to solve problems in a user-centric way. 
+
+1 / 1 point
+
+[x] True
+
+
+False
+
+Correct
+6.
+Question 6
+You are in the ideate phase of the design process. What are you doing at this stage?
+
+1 / 1 point
+
+[x] Generating visualization ideas
+
+
+Creating data visualizations
+
+
+Making changes to their data visualization 
+
+
+Sharing data visualizations with a test audience
+
+Correct
+7.
+Question 7
+What should you include in the headline of a data visualization?
+
+1 / 1 point
+
+Abbreviations
+
+
+Fancy typography
+
+
+[x] Clear language
+
+
+Acronyms
+
+Correct
+8.
+Question 8
+Fill in the blank: You should distinguish elements of your data visualization by _____ the foreground and background and using contrasting colors and shapes. This makes the content more accessible.
+
+1 / 1 point
+
+[x] separating
+
+
+overlapping
+
+
+aligning
+
+
+highlighting
