@@ -192,3 +192,182 @@ Describe the relationship between a primary key and a foreign key.
 Correct
 
 > A primary key references a column in a table in which each value is unique. A foreign key is a field within a table that is a primary key in another table. 
+
+
+
+
+################################################################
+version 2
+
+################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question 1
+A data analyst suspects that there are many blank cells in their spreadsheet corresponding to missing information. What spreadsheet tool can they use to identify only those cells containing the null values? 
+
+1 / 1 point
+
+**Conditional formatting**
+
+
+Cell filtering
+
+
+Cell querying
+
+
+Conditional ranking
+
+Correct
+2.
+Question 2
+A data analyst at a nonprofit organization is working with the following spreadsheet, which contains member name data in column C. They want to divide this data using the underscore as a delimiter, so that first names are stored in one column and last names in another. Which tool should the analyst use?
+
+
+
+
+1 / 1 point
+
+**SPLIT function**
+
+
+Conditional formatting
+
+
+Pivot table
+
+
+MID function
+
+Correct
+3.
+Question 3
+Fill in the blank: A predetermined structure that includes a function’s required information and its proper placement is called _____.
+
+1 / 1 point
+
+script
+
+
+structure
+
+
+**syntax**
+
+
+standard
+
+Correct
+4.
+Question 4
+In a spreadsheet, what is the correct function for extracting the first two characters of the string located in cell A7?
+
+1 / 1 point
+
+=RIGHT(2,A7)
+
+
+**=LEFT(A7,2)
+**
+
+=LEFT(2,A7)
+
+
+=RIGHT(A7,2)
+
+Correct
+5.
+Question 5
+A data analyst in a human resources department is working with the following selection of a spreadsheet:
+
+N/A
+
+
+
+
+They want to create employee identification numbers (IDs) in column D. The IDs should include the last four digits of the employee’s Social Security Number(SS#) plus the year hired. What function will create the ID 19392020 for the employee in row 4?
+
+1 / 1 point
+
+=CONCATENATE(A4+B4)
+
+
+=CONCATENATE(B4+A4)
+
+
+=CONCATENATE(A4!B4)
+
+
+**=CONCATENATE(B4,A4)
+**
+Correct
+6.
+Question 6
+An analyst is cleaning a new dataset containing 500 rows. They want to make sure the data contained from cell B2 through cell B300 does not contain a number greater than 50. Which of the following COUNTIF function syntaxes could be used to answer this question? Select all that apply.
+
+1 / 1 point
+
+=COUNTIF(B2:B300,<=50)
+
+
+=COUNTIF(B2:B300,>50)
+
+
+**=COUNTIF(B2:B300,">50")
+**
+Correct
+In this case, the analyst can use the inequality ">50" to count all the cells containing the value greater than 50 that exist between the cell range B2 through B300. If the return value of the COUNTIF function is greater than the value 0, the analyst can then take the necessary steps to locate and clean the unwanted cell or cells. 
+
+
+**=COUNTIF(B2:B300,”<=50”)
+**
+Correct
+In this case, the analyst can use the inequality "<=50" to count all the cells containing the value of 50 or less that exist between the cell range B2 through B300. If the return value of the COUNTIF function is less than the total value of all the rows in the range combined, the analyst can then take the necessary steps to locate and clean the unwanted cell or cells. 
+
+7.
+Question 7
+What does the function VLOOKUP do?
+
+1 / 1 point
+
+Transforms information in a row containing some specified value.
+
+
+**Returns information in a column containing some specified value.
+**
+
+Returns information in a row containing some specified value.
+
+
+Deletes information in a column containing some specified value.
+
+Correct
+8.
+Question 8
+A data analyst needs to combine two datasets. Each dataset comes from a different system, and the systems store data in different ways. What can the data analyst do to ensure the data is compatible prior to analyzing the data?
+
+1 / 1 point
+
+Apply a data structure
+
+
+**Map the data
+**
+
+Use a data visualization
+
+
+Spot check for null values
+
+Correct
