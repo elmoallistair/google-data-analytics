@@ -262,3 +262,162 @@ True
 
 Please review the video on strings in spreadsheets.
 
+
+
+
+############################################################################################
+############################################################################################
+############################################################################################
+############################################################################################
+v3
+
+############################################################################################
+
+
+
+
+
+
+
+
+
+An analyst has financial data that is formatted as Euros, but it should be formatted as Pesos. What spreadsheet tool can help them select the right format?
+
+1 / 1 point
+
+[x] Format as Currency
+
+
+Format as Euros
+
+
+Format as Peso
+
+
+Format as Money
+
+Correct
+2.
+Question 2
+A data analyst allows their colleagues access to their data spreadsheet. In order to protect the structured data and formulas from accidental changes, what spreadsheet tool can the data analyst use?
+
+1 / 1 point
+
+Pop-up menus
+
+
+[x] Data validation
+
+
+Find
+
+
+Conditional formatting
+
+Correct
+3.
+Question 3
+A data analyst in human resources uses a spreadsheet to keep track of employees’ work anniversaries. They add color to any employee who has worked for the company for more than 10 years. Which spreadsheet tool changes how cells appear when values equal 10 or more?
+
+1 / 1 point
+
+[x] Conditional formatting
+
+
+Data validation
+
+
+CONVERT 
+
+
+Add color
+
+Correct
+4.
+Question 4
+You are working with a SQL database with tables for flight routes in Canada. The table contains one column with the names of the departure airports. A different column in the same table contains the names of the arrival airports. What function can you use in your query to combine the arrival and departure airport names into a new column?
+
+1 / 1 point
+
+[x] CONCAT
+
+
+JOIN
+
+
+GROUP
+
+
+COMBINE
+
+Correct
+5.
+Question 5
+You are querying a database of ice cream flavors to determine which stores are selling the most mint chip. For your project, you only need the first 80 records. What clause should you add to the following SQL query?
+
+SELECT flavors
+FROM ice_cream_table
+WHERE flavor = “mint_chip”
+
+1 / 1 point
+
+LIMIT = 80
+
+
+LIMIT_80
+
+
+LIMIT ,80
+
+
+[x] LIMIT 80
+
+Correct
+6.
+Question 6
+A data analyst is working with a spreadsheet that has very long text strings. They use a function to count the number of characters in cell G11. What is the correct syntax of the function?
+
+1 / 1 point
+
+=LEN(“G11”)
+
+
+[x] =LEN(G11)
+
+
+=LEN(G,11)
+
+
+=LEN(G:G11)
+
+Correct
+7.
+Question 7
+Spreadsheet cell H8 contains the text string “Marketing”. To return the substring “market”, what is the correct syntax?
+
+1 / 1 point
+
+=RIGHT(6,H8)
+
+
+=LEFT(6,H8)
+
+
+[x] =LEFT(H8, 6)
+
+
+=RIGHT(H8, 6)
+
+Correct
+8.
+Question 8
+When working with spreadsheets, data analysts use the find function to locate specific characters in a string. Find is case-sensitive, so it’s necessary to input the substring exactly how it appears.
+
+1 / 1 point
+
+[x] True
+
+
+False
+
+Correct
