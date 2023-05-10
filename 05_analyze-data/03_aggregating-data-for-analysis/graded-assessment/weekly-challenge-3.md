@@ -118,3 +118,173 @@ Which of the following terms describe a subquery? Select all that apply.
 * Small query
 
 > A subquery can also be called an inner query, inner select, or nested query.
+
+
+
+##############################################################
+##############################################################
+##############################################################
+v2
+
+##############################################################
+
+
+
+Question 1
+A data analyst is working with data that has been collected over time and stored in different databases. What process must they perform if they are to calculate the statistics of this data?
+
+1 / 1 point
+
+[x] Data aggregation
+
+
+Data grouping
+
+
+Data mapping
+
+
+Data composition
+
+Correct
+2.
+Question 2
+The VALUE function converts a numeric value into a text string in a spreadsheet.
+
+1 / 1 point
+
+True
+
+
+[x] False
+
+Correct
+3.
+Question 3
+When using VLOOKUP, there are some common limitations that data analysts should be aware of. One of these limitations is that VLOOKUP only returns the first match it finds, even if there are many possible matches within the column.
+
+1 / 1 point
+
+[x] True
+
+
+False
+
+Correct
+4.
+Question 4
+Fill in the blank: When writing a function, a data analyst wraps a table array in dollar signs. This is an _____ , which is used to lock the array so rows and columns don’t change if the function is copied. 
+
+1 / 1 point
+
+[x] absolute reference
+
+
+authentic reference
+
+
+arbitrary reference 
+
+
+accurate reference
+
+Correct
+5.
+Question 5
+The following is a selection from a spreadsheet:
+
+
+
+To search for the growth in population in China, what is the correct VLOOKUP syntax?
+
+1 / 1 point
+
+=VLOOKUP(China, A2:C10, 2, false)
+
+
+[x] =VLOOKUP(“China”, A2:C10, 3, false)
+
+
+=VLOOKUP(China, A2*C10, 3, false)
+
+
+=VLOOKUP(“China”, A2:C10, 2, false)
+
+Correct
+6.
+Question 6
+A data analyst writes a query in SQL with the RIGHT JOIN function
+
+FROM fiction_table
+RIGHT JOIN
+books_table
+
+What does this function do?
+
+1 / 1 point
+
+It returns all the records in the fiction table and only the records from the books table with matching values.
+
+
+It returns only the records with values that match from both tables.
+
+
+It returns all records in both the fiction table and the books table.
+
+
+[x] It returns all records in the books table and only the records from the fiction table with matching values.
+
+Correct
+7.
+Question 7
+Fill in the blank: The COUNT _____ function will return the number of unique values in a specified range.
+
+0 / 1 point
+
+ONLY
+
+
+[x] DISTINCT PROBABLY RIGHT
+
+
+ONE
+
+
+UNIQUE
+
+unique is Incorrect
+Review the video on returning the number of rows in a specified range.
+
+8.
+Question 8
+When working with subqueries, which part of the query segment executes first? 
+
+1 / 1 point
+
+[x] The inner query 
+
+
+The smaller query
+
+
+The outer query
+
+
+The larger query
+
+Correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
