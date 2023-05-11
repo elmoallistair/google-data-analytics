@@ -105,3 +105,163 @@ If an analyst creates the same kind of document over and over or customizes the 
 * a code chunk
 
 > A template can save time when creating the same kind of document over and over or when customizing the appearance of a final report. 
+
+
+
+
+##############################################################
+##############################################################
+##############################################################
+v2
+##############################################################
+
+
+
+
+
+Question 1
+A data analyst wants to perform an analysis and make it easy for colleagues to understand his process and update the analysis a year from now. Which tool is best to achieve this objective? 
+
+1 / 1 point
+
+Word Document
+
+
+Code chunks
+
+
+- [x] R Markdown
+
+
+PDF document
+
+Correct
+2.
+Question 2
+A data analyst needs to create a shareable report in RStudio. They first want to change the default file format that gets exported by the Knit button to .pdf. What value should they use for the output field in the YAML header?
+
+1 / 1 point
+
+pdf_knit
+
+
+knit_pdf
+
+
+- [x] pdf_document
+
+
+document_pdf
+
+Correct
+3.
+Question 3
+Which combination of text characters can be used to embed an image in a markdown document?
+
+1 / 1 point
+
+##
+
+
+*[]()
+
+
+- [x] ![]()
+
+
+<>
+
+Correct
+4.
+Question 4
+Fill in the blank: A data analyst includes _____ in their R Markdown notebook so that they can refer to it directly in their explanation of their analysis. 
+
+1 / 1 point
+
+markdown
+
+
+- [x] inline code
+
+
+YAML
+
+
+documentation 
+
+Correct
+5.
+Question 5
+Which pieces of markdown text will produce a result that is italicized? Select all that apply.
+
+1 / 1 point
+
+**text**
+
+
+- [x] *text*
+
+Correct
+
+- [x] _text_
+
+Correct
+
+* text
+
+6.
+Question 6
+Fill in the blank: Code added to an .rmd file is usually referred to as a code _____. This allows users to execute R code from within the .rmd file. 
+
+1 / 1 point
+
+section
+
+
+- [x] chunk
+
+
+filter
+
+
+file
+
+Correct
+7.
+Question 7
+Fill in the blank: A delimiter is a character that indicates the beginning or end of _____.
+
+1 / 1 point
+
+a section
+
+
+- [x] a data item
+
+
+a header
+
+
+an analysis
+
+Correct
+8.
+Question 8
+A data analyst is finalizing their work in an R Markdown notebook and wants to use a format that will allow them to control where page breaks happen. Which of the following export formats have page breaks? Select all that apply.
+
+1 / 1 point
+
+- [x] Word
+
+Correct
+Review the video on exporting .rmd files.
+
+
+HTML
+
+
+- [x] PDF
+
+Correct
+
+TXT
