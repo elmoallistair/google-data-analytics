@@ -120,3 +120,174 @@ When programming in R, what is a pipe used as an alternative for?
 * Installed package
 
 > A pipe can be used as an alternative for a nested function. You can use both pipes and nested functions to complete multiple operations on data. However, a pipe is often the preferred method because it makes your code easier to read and understand.
+
+
+
+
+
+####################################################################################
+####################################################################################
+####################################################################################
+V2
+####################################################################################
+
+
+
+
+
+
+
+
+Question 1
+A data analyst is assigning a variable to a value in their company’s sales data set for 2020. Which variable name uses the correct syntax? 
+
+1 / 1 point
+
+2020_sales
+
+
+- [x] sales_2020
+
+
+_2020sales
+
+
+-sales-2020
+
+Correct
+2.
+Question 2
+You want to create a vector with the values 12, 23, 51, in that exact order. After specifying the variable, what R code chunk lets you create the vector? 
+
+1 / 1 point
+
+v(12, 23, 51) 
+
+
+v(51, 23, 12) 
+
+
+c(51, 23, 12) 
+
+
+- [x] c(12, 23, 51) 
+
+Correct
+3.
+Question 3
+An analyst comes across dates listed as strings in a dataset. For example, December 10th, 2020. To convert the strings to a date/time data type, which function should the analyst use?
+
+1 / 1 point
+
+lubridate()
+
+
+- [x] mdy()
+
+
+now()
+
+
+datetime()
+
+Correct
+4.
+Question 4
+A data analyst wants to assign the value 50 to the variable daily_dosage. Which of the following types of operators will they need to use in the code? 
+
+1 / 1 point
+
+Logical
+
+
+Relational
+
+
+- [x] Assignment
+
+
+Arithmetic
+
+Correct
+5.
+Question 5
+Which of the following is a best practice when naming functions in R?
+
+1 / 1 point
+
+Function names should start with a special character
+
+
+Function names should be very long
+
+
+Function names should be capitalized
+
+
+- [x] Function names should be verbs
+
+Correct
+6.
+Question 6
+How are base packages different from recommended packages in the R package ecosystem?
+
+1 / 1 point
+
+Recommended packages are more professionally designed than base packages.
+
+
+Base packages take longer to load than recommended packages.
+
+
+Recommended packages are made by the community and base packages are not.
+
+
+- [x] Base packages are installed and loaded by default and recommended packages are not.
+
+Correct
+7.
+Question 7
+What is the name of the popular package archive dedicated to supporting R users authentic, validated code?
+
+1 / 1 point
+
+Python
+
+
+The tidyverse
+
+
+The RStudio website
+
+
+- [x] The CRAN archive
+
+Correct
+8.
+Question 8
+A data analyst writes the following code in a script and gets an error. What is wrong with their code?
+
+penguins %>%
+
+    filter(flipper_length_mm == 200) %>%
+
+    group_by(species) %>%
+
+   summarize(mean = mean(body_mass_g)) %>%
+
+0 / 1 point
+THIS SHOULD BE CORRECT ANSWER
+- [x] The last line should not have a pipe operator.
+
+
+The first line should have a pipe operator before penguins.
+
+
+They are using too many functions.
+
+
+They are using the wrong characters for the pipe operator.
+
+
+Review the video that covers how to express a sequence of multiple operations.
+https://www.coursera.org/learn/data-analysis-r/lecture/5AFvs/working-with-pipes
