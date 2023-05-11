@@ -256,3 +256,392 @@ As a final step in the data-sharing process, you think about how to respond duri
 * Involve your whole audience
 
 > When answering questions, you should listen to the whole question, and repeat it, if necessary. You should also be sure you understand the context of the question and involve the whole audience.
+
+
+
+########################################################################3
+########################################################################3
+########################################################################3
+v2
+########################################################################3
+
+
+
+Scenario 1, questions 1-9
+
+You have been working as a junior data analyst at Bowling Green Business Intelligence for nearly a year. Your supervisor, Kate, tells you that she believes you are ready for more responsibility. She asks you to lead an upcoming client presentation. You will be responsible for creating the data story, identifying the right tools to use, building the slideshow, and delivering the presentation to stakeholders.
+
+Your client is Gaea, an automotive manufacturer that makes eco-friendly electric cars. For the past year, you have been working with the data team in Gaea’s Bowling Green, Kentucky, headquarters. For the presentation, you will engage the data team, as well as its regional sales representatives and distributors. Your presentation will inform their business strategy for the next three-to-five years.
+
+You begin by getting together with your team to discuss the data story you want to tell. You know the first step in data storytelling is to engage your audience. 
+
+A big part of audience engagement is knowing how to eliminate less important details. What practice do you use to scan quickly through the data in order to identify the most important insights?
+
+1 / 1 point
+
+Filtering
+
+
+Ranking
+
+
+- [x] Spotlighting
+
+
+Balancing
+
+Correct
+
+2.
+Question 2
+Scenario 1, continued
+
+Your team’s analysis has revealed three key insights:
+
+Electric vehicle sales demand is expected to grow by more than 400% by 2025.
+
+The number of publicly available vehicle charging stations is a significant factor in consumer buying decisions. Currently, there are many locations with so few charging stations that electric car owners would run out of power when traveling between stations. 
+
+Vehicle battery range is also a significant factor for consumers. In 2020, the average battery range was 210 miles. However, the vast majority of survey respondents report they will not buy an electric car until the battery range is at least 300 miles per charge.
+
+Fill in the blank: Based on these insights, you create a clear and direct _____, which will guide your data story.
+
+1 / 1 point
+
+- [x] primary message
+
+
+business case
+
+
+spotlight
+
+
+specific question
+
+Correct
+
+3.
+Question 3
+Scenario 1, continued
+
+Next, you decide on your data narrative’s characters, setting, plot, big reveal, and aha moment. During the narrative, you want to communicate to your stakeholders about the challenges associated with the current lack of vehicle charging stations and why it's important for Gaea to increase its cars’ battery range by 2025. 
+
+In which part of your data narrative would you include information about charging stations, the need to increase battery range, and why it’s important for Gaea to increase its cars’ battery range?
+
+1 / 1 point
+
+- [x] Plot
+
+
+Big reveal
+
+
+Aha moment
+
+
+Setting
+
+Correct
+
+4.
+Question 4
+Scenario 1, continued
+
+Now, you consider which tools to use to create data visualizations that will clearly communicate the results of your analysis. You and your team decide to make both spreadsheet charts and Tableau data visualizations. In addition, you build a dashboard to share live, incoming data with your stakeholders. 
+
+What are the benefits of using dashboards to tell stories about your data? Select all that apply.
+
+1 / 1 point
+
+Maintain control of your data narrative to keep Gaea stakeholders apprised of your insights
+
+
+- [x] Simplify data visualizations about the number of available charging stations using maps of the different geographies 
+
+Correct
+
+
+- [x] Enable tracking and analysis of electric vehicle data
+
+Correct
+
+
+- [x] Organize multiple datasets about electric vehicle battery ranges into a central location
+
+Correct
+
+5.
+Question 5
+Scenario 1, continued
+
+Now that you have finished planning the data story with your team, it’s time to create data visualizations. First, you consider electric vehicle sales worldwide in 2015 compared to 2020. You use a spreadsheet to create the following bar graph to compare the two values:
+
+A bar graph representing electric vehicle sales worldwide in 2015 compared to 2020. There are no x-axis or y-axis labels.
+You add information on the x-axis to represent a scale of values for the total electric vehicle sales and on the y-axis to represent the time periods (2015 and 2020).
+
+1 / 1 point
+
+True
+
+
+- [x] False
+
+Correct
+
+6.
+Question 6
+Scenario 1, continued
+
+Next, you explore how access to public car-charging stations is influencing electric vehicle purchases. As your analysis has revealed, there are many areas without enough places for people to plug in and charge their cars. This lack of charging stations has a negative impact on demand for electric cars and overall vehicle sales. 
+
+You use Tableau to create the following draft of a visualization, which organizes the charging station data geographically: 
+
+The visualization represents the United States map, each state is a different color. The text is blurry and colors are faded
+After reviewing your draft, you realize that it could be improved. 
+
+Fill in the blank: To improve your draft, you select more varied hues and make the color intensity stronger. In addition, you choose darker _____ in order to reflect more light. 
+
+1 / 1 point
+
+visuals
+
+
+variables
+
+
+views
+
+
+- [x] values
+
+Correct
+Value indicates how much light is being reflected. 
+
+7.
+Question 7
+Scenario 1, continued
+
+Now, you want to highlight what your team’s analysis discovered about the number of charging stations available compared to the number of cars purchased. Your data has confirmed that the lack of charging stations causes the effect of fewer car sales. To communicate this effectively, you will need to convey causation to the stakeholders.
+
+Fill in the blank: You explain that causation is when an action _____ an outcome. In the case of Gaea’s business, causation can be used to discuss the relationship between lack of charging stations and fewer car sales.
+
+1 / 1 point
+
+prevents occurrence of
+
+
+changes the timing of
+
+
+moves in relationship to 
+
+
+- [x] directly leads to
+
+Correct
+
+8.
+Question 8
+Scenario 1, continued
+
+After creating data visualizations about the current state of the electric vehicle market, you turn to projections. You want to communicate to stakeholders about the importance of longer vehicle battery range to consumers.
+
+Your team analyzes data from a consumer survey that investigated the importance of longer battery range when choosing whether to purchase an electric car. The current average battery range is about 210 miles. By 2025, that distance is expected to grow to 450 miles per charge.
+
+You create the following pie chart:
+
+A circular chart of survey responses of miles per charge it would take surveyors to purchase an electric vehicle.
+After reviewing your pie chart, you realize that it could be improved. How do you make this chart more effective?
+
+1 / 1 point
+
+Add an x-axis and y-axis to provide additional explanation about the data
+
+
+Write a longer title to add more detail about the data the pie chart contains
+
+
+- [x] Resize the pie segments so they visually show the different values
+
+
+Remove the labels for the number of miles per charge consumers will require before purchasing an electric vehicle
+
+Correct
+
+9.
+Question 9
+Scenario 1, continued
+
+It’s time to build your Tableau dashboard for stakeholders. You consider what type of layout to use. 
+
+You decide that you want to be able to adjust the width of the views and the data visualizations about electric vehicle sales, charging stations, and battery range. Which type of layout will enable you to do that?
+
+1 / 1 point
+
+Vertical layout
+
+
+- [x] Horizontal layout
+
+
+Circular layout
+
+
+Diagonal layout
+
+Correct
+
+10.
+Question 10
+Scenario 2, questions 10-15
+
+You have created your narrative and visuals, so now it’s time to build a professional and appealing slideshow. You choose a theme that matches the tone of your presentation. Then, you create a title slide with a title, subtitle, and the date. 
+
+Next, you create the following slide to communicate information about electric vehicle sales in 2015 compared to 2020:
+
+Slides with bar chart of vehicle sales from 2015 and 2022. There are long descriptions at bottom of slide and next to chart.
+Alt-text: Slideshow with bar chart of electric vehicle sales from 2015 and 2022. 2022 had higher sales. There are also multiple sentences at the bottom of the slide and another piece of descriptive text near the chart.
+
+To improve the slide, you remove the text box at the bottom. For what reasons will this make your slide more effective? Select all that apply.
+
+1 / 1 point
+
+- [x] Slide text should be fewer than 25 words total
+
+Correct
+
+
+- [x] The text shouldn’t simply repeat the words you say
+
+Correct
+
+
+- [x] The font size is too small for your audience to read
+
+Correct
+
+
+Slide text should be no more than 10 lines total
+
+11.
+Question 11
+Scenario 2, continued
+
+You then create the following slide to demonstrate the challenges associated with battery range and charging stations:
+
+Slideshow of a pie chart and United States map to demonstrate the challenges of car battery range and charging stations.
+After reviewing your slide, you realize that the visual elements could be improved. Which of the following options would help you make the visual elements on this slide more effective? Select all that apply.
+
+1 / 1 point
+
+- [x] Use a consistent font size and color for data visualization titles
+
+Correct
+
+
+Use more colors in the map
+
+
+Provide a detailed written explanation of both data visualizations
+
+
+- [x] Choose one data visualization to share on this slide, then create another slide for the second data visualization
+
+Correct
+
+12.
+Question 12
+Scenario 2, continued
+
+You complete your slideshow and share it with your team. Once it is approved by your supervisor, you begin preparing to give your presentation. You consider maintaining good posture, being aware of nervous habits, and making eye contact. In addition, you think about how you will explain the data visualizations.
+
+One of the strategies you practice is the five-second rule. What are some key aspects of this rule? Select all that apply. 
+
+1 / 1 point
+
+- [x] Ask your audience if they understand the data visualization 
+
+Correct
+
+
+- [x] Be prepared to explain the data visualization
+
+Correct
+
+
+- [x] Tell your audience the conclusion that you want them to understand
+
+Correct
+
+
+Take no more than five seconds to explain the data visualization
+
+13.
+Question 13
+Scenario 2, continued
+
+Next, you prepare for the question-and-answer session that will follow your presentation. To predict what questions they may ask, you do a colleague test of your presentation. You should choose a colleague who has deep expertise in the electric vehicle industry.
+
+1 / 1 point
+
+True
+
+
+- [x] False
+
+Correct
+
+14.
+Question 14
+Scenario 2, continued
+
+Now that you have some idea of the questions the stakeholders will ask, you and a team member consider different objections that might arise. 
+
+Your team member asks you how you will respond if someone from Gaea questions your data-cleaning process. How do you prepare for this objection? Select all that apply.
+
+1 / 1 point
+
+- [x] Practice answering questions about your data-cleaning process
+
+Correct
+
+
+- [x] Keep a detailed log of your data-cleaning process
+
+Correct
+
+
+Be prepared to explain why data cleaning is not relevant at this stage of the project
+
+
+- [x] Add your data-cleaning log to the slideshow appendix
+
+Correct
+
+15.
+Question 15
+Scenario 2, continued
+
+The big day has arrived, and you have just finished giving your presentation to the Gaea team. It’s now time for the question-and-answer session, and a stakeholder asks you a very detailed question about one specific electric vehicle charging station initiative. 
+
+You listen to the whole question, then repeat it. For what reasons is this important? Select all that apply.
+
+1 / 1 point
+
+- [x] It helps you confirm that you understand the question
+
+Correct
+
+
+- [x] It gives the stakeholder a chance to correct you if you misunderstand 
+
+Correct
+
+
+It enables you to rephrase it in a way that is easier to answer
+
+
+- [x] It ensures the entire audience has heard the question, in case they did not when it was originally asked
+
+Correct
