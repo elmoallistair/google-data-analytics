@@ -105,3 +105,164 @@ You are presenting to a large audience and want to keep everyone engaged during 
 * Keep your pitch level
 
 > One way to engage a large audience is to ask them if they know anything about the topic you’re presenting about. In a large audience, it is more likely that an audience member may have information or anecdotes to contribute. You can enrich the discussion if they would like to share their insights.
+
+
+
+##########################################################################
+##########################################################################
+##########################################################################
+v2
+##########################################################################
+
+
+
+
+
+Fill in the blank: You are working as a data analyst at a gas company and want to learn more about top-performing staff members. You create a _____, which states that employee success hinges on a successful onboarding process when people are first hired. You hope to either prove or disprove this theory with your data.
+
+1 / 1 point
+
+statistic
+
+
+business task
+
+
+trend
+
+
+- [x] hypothesis
+
+Correct
+2.
+Question 2
+You are giving a presentation to an audience that knows very little about your subject. Which concept in the McCandless Method allows you the chance to avoid the audience getting distracted by something they don't understand?
+
+1 / 1 point
+
+- [x] Answer obvious questions before they’re asked
+
+
+State the insight of the graphic
+
+
+Call out data to support that insight
+
+
+Tell the audience why the graphic matters
+
+Correct
+3.
+Question 3
+You are preparing for your first presentation at a new job. Which strategies can help you combat nervousness about presentations? Select all that apply.
+
+1 / 1 point
+
+- [x] Channel your nervousness into excitement about your topic 
+
+Correct
+
+Improvise your material to speak naturally
+
+
+- [x] Do breathing exercises to calm your body down
+
+Correct
+
+- [x] Practice and prepare your material
+
+Correct
+4.
+Question 4
+You are giving a presentation to the leadership of a local community organization. How can you effectively communicate your findings to them?
+
+1 / 1 point
+
+Focus on specific technical details of your analysis
+
+
+- [x] Focus on what the audience needs to hear
+
+
+Focus on speaking without any pauses
+
+
+Focus on what you found interesting
+
+Correct
+5.
+Question 5
+You run a colleague test on your presentation before getting in front of an audience. Your coworker asks a question about a section of your analysis, but addressing their concern would mean adding information you didn’t plan to include. How should you proceed with building your presentation? Select all that apply.
+
+0.75 / 1 point
+
+Remove the section of the analysis that prompted the question
+
+
+- [x] Keep the concern in mind and anticipate that stakeholders may ask the same question
+
+Correct
+
+PROBABLY THIS ONE TOO
+Leave the presentation as-is
+
+
+Expand your presentation by including the information
+
+- [x] You didn’t select all the correct answers
+6.
+Question 6
+Your stakeholders are concerned about the source of your data. They are unfamiliar with the organization that ran the analyses you referenced in your presentation. Which kind of objection are they making?
+
+1 / 1 point
+
+Analysis
+
+
+- [x] Data
+
+
+Findings
+
+
+Presentation skills
+
+Correct
+7.
+Question 7
+During a meeting, a colleague on your team points out a flaw in your analysis that you had not noticed before. What steps should you take to respond to their objection? Select all that apply.
+
+1 / 1 point
+
+- [x] Acknowledge that their objection is valid
+
+Correct
+
+Hide evidence that you were incorrect
+
+
+- [x] Follow up with your colleague
+
+Correct
+
+- [x] Investigate the issue
+
+Correct
+8.
+Question 8
+You are performing a colleague test with a peer. What skill should you practice while answering their questions?
+
+1 / 1 point
+
+Immediately answer with as much detail as possible
+
+
+Tailor answers based on your interests
+
+
+- [x] Answer as directly as possible
+
+
+Think of answers while the audience asks questions
+
+Correct
