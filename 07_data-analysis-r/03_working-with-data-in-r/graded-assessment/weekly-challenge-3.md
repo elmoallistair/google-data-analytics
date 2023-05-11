@@ -172,3 +172,260 @@ What will this code chunk calculate?
 * `The total average of the values`
 
 > The bias() function can be used to calculate the average amount a predicted outcome and actual outcome differ in order to determine if the data model is biased. 
+
+
+
+
+
+#############################################################################
+#############################################################################
+#############################################################################
+v2
+#############################################################################
+
+
+
+
+Question 1
+A data analyst is working with a dataset in R that has more than 50,000 observations. Why might they choose to use a tibble instead of the standard data frame? Select all that apply.
+
+1 / 1 point
+
+Tibbles can create row names
+
+
+- [x] Tibbles automatically only preview the first 10 rows of data
+
+Correct
+
+Tibbles can automatically change the names of variables
+
+
+- [x] Tibbles automatically only preview as many columns as fit on screen
+
+Correct
+2.
+Question 2
+A data analyst is checking a script for one of their peers. They want to learn more about a specific data frame. What function(s) will allow them to see a subset of data values in the data frame? Select all that apply.
+
+0.5 / 1 point
+
+head()
+
+
+colnames()
+
+This should not be selected
+Review the video on working with data frames.
+
+
+- [x] str()
+
+Correct
+
+library()
+
+3.
+Question 3
+You are working with the ToothGrowth dataset. You want to use the skim_without_charts() function to get a comprehensive view of the dataset. Write the code chunk that will give you this view. 
+
+12
+skim_without_charts(ToothGrowth )
+
+Reset
+__ Data Summary _____________________________
+                           Values
+Name                       ToothGrowth
+Number of rows             60
+Number of columns          3
+_______________________
+Column type frequency:
+  factor                   1
+  numeric                  2
+________________________
+Group variables            None
+
+__ Variable type: factor ________________________________________________________
+  skim_variable n_missing complete_rate ordered n_unique top_counts
+1 supp                  0             1 FALSE          2 OJ: 30, VC: 30
+
+__ Variable type: numeric _______________________________________________________
+  skim_variable n_missing complete_rate  mean    sd    p0   p25   p50   p75  p100
+1 len                   0             1 18.8  7.65    4.2  13.1  19.2  25.3  33.9
+2 dose                  0             1  1.17 0.629   0.5   0.5   1     2     2
+How many rows does the ToothGrowth dataset contain? 
+
+1 / 1 point
+
+50
+
+
+- [x] 60
+
+
+25
+
+
+40
+
+Correct
+The code chunk skim_without_charts(ToothGrowth) gives you a comprehensive view of the dataset. Inside the parentheses of the skim_without_charts() function is the name of the dataset you want to view. The code returns a summary with the name of the dataset and the number of rows and columns. It also shows the column types and data types contained in the dataset. The ToothGrowth dataset contains 60 rows.
+
+4.
+Question 4
+You have a data frame named employees with a column named last_name. What will the name of the employees column be in the results of the function rename_with(employees, toupper)?
+
+0 / 1 point
+
+Last_name
+
+
+LAST_NAME
+
+
+- [x] THIS IS A GUESS Last_Name
+
+
+last_name
+
+
+Review the video on cleaning data in R.
+
+5.
+Question 5
+A data analyst is working with the penguins data. The variable species includes three penguin species: Adelie, Chinstrap, and Gentoo. The analyst wants to create a data frame that only includes the Adelie species. The analyst receives an error message when they run the following code:
+
+penguins %>%
+
+ filter(species <- “Adelie”)
+
+How can the analyst change the second line of code to correct the error?
+
+1 / 1 point
+
+filter(“Adelie”)
+
+
+filter(“Adelie” <- species)
+
+
+filter(Adelie == species)
+
+
+- [x] filter(species == “Adelie”)
+
+Correct
+6.
+Question 6
+You are working with the penguins dataset. You want to use the summarize() and max() functions to find the maximum value for the variable flipper_length_mm. You write the following code:
+
+penguins %>% 
+
+  drop_na() %>% 
+
+  group_by(species) %>%
+
+Add the code chunk that lets you find the maximum value for the variable flipper_length_mm.
+
+1234
+summarize(max(flipper_length_mm))
+
+
+
+Reset
+# A tibble: 3 <U+00D7> 2
+    species `max(flipper_length_mm)`
+      <chr>                    <int>
+1    Adelie                      210
+2 Chinstrap                      212
+3    Gentoo                      231
+What is the maximum flipper length in mm for the Gentoo species? 
+
+1 / 1 point
+
+212
+
+
+- [x] 231
+
+
+200
+
+
+210
+
+Correct
+The code chunk summarize(max(flipper_length_mm)) lets you find the maximum value for the variable flipper_length_mm. The correct code is penguins %>% drop_na() %>% group_by(species) %>% summarize(max(flipper_length_mm)). The summarize() function displays summary statistics. You can use the summarize() function in combination with other functions  -- such as mean(), max(), and min() -- to calculate specific statistics. In this case, you use max() to calculate the maximum value for flipper length. The maximum flipper length for the Gentoo species is 231mm. 
+
+7.
+Question 7
+A data analyst is working with a data frame called athletes. The data frame contains a column names record that represents an athlete's wins and losses separated by a hyphen (-). They want to turn this single column into individual columns for wins and losses. Which code chunk lets the analyst split the record column?
+
+1 / 1 point
+
+separate(record, athletes, into=c("wins”, “losses”), delim="-")
+
+
+separate(record, athletes, into=c("wins”, “losses”), sep="-")
+
+
+- [x] separate(athletes, record, into=c("wins”, “losses”), sep="-")
+
+
+separate(athletes, record, into=c("wins”, “losses”), delim="-")
+
+Correct
+8.
+Question 8
+A data analyst is working with a data frame named stores. It has separate columns for city (city) and state (state). The analyst wants to combine the two columns into a single column named location, with the city and state separated by a comma. What code chunk lets the analyst create the location column? 
+
+1 / 1 point
+
+- [x] unite(stores, “location”, city, state, sep=”,”)
+
+
+unite(stores, “location”, city, sep=”,”)
+
+
+unite(stores, “location”, city, state)
+
+
+unite(stores, city, state, sep=”,”)
+
+Correct
+9.
+Question 9
+A data analyst is using statistical measures to get a better understanding of their data. What function can they use to determine how strongly related are two of the variables?
+
+1 / 1 point
+
+sd()
+
+
+bias()
+
+
+mean()
+
+
+- [x] cor()
+
+Correct
+10.
+Question 10
+A data analyst wants to check the average difference between the actual and predicted values of a model. What single function can they use to calculate this statistic?
+
+1 / 1 point
+
+mean()
+
+
+cor()
+
+
+sd()
+
+
+- [x] bias()
+
+Correct
